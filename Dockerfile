@@ -20,7 +20,7 @@ RUN chmod +x \
     /app/sl2/game/GameServer.sh
 
 # Expor as portas necessárias
-EXPOSE 2106 9014 7777
+EXPOSE 2106 9014 7777 3307
 
 # Executar o script usando bash
 CMD [ "bash", "/app/sl2/start_servers.sh" ]
