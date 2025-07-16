@@ -1,9 +1,12 @@
 #!/bin/bash
 
+# Criar logs
 mkdir -p /app/sl2/{game,login}/log
-
-# permisao
 chmod 777 /app/sl2/{game,login}/log
+
+# 🛠️ Garantir permissões de execução dos scripts
+chmod +x /app/sl2/login/LoginServer.sh
+chmod +x /app/sl2/game/GameServer.sh
 
 # Iniciar LoginServer em segundo plano
 cd /app/sl2/login/ || exit 1
@@ -13,5 +16,5 @@ cd /app/sl2/login/ || exit 1
 cd /app/sl2/game/ || exit 1
 ./GameServer.sh &
 
-# Esperar indefinidamente para manter o contêiner em execução
+# Manter o container vivo
 tail -f /dev/null

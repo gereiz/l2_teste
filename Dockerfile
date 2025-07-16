@@ -8,11 +8,9 @@ WORKDIR /app
 
 COPY ./sl2 /app/sl2
 
-# 🔧 Corrigido: chmod direto nos scripts-alvo
-RUN chmod +x ./sl2/start_servers.sh && \
-    chmod +x ./sl2/login/LoginServer.sh && \
-    chmod +x ./sl2/game/GameServer.sh
+# Só dar permissão ao start_servers.sh se quiser
+RUN chmod +x /app/sl2/start_servers.sh
 
 EXPOSE 2106 9014 7777
 
-CMD ["bash", "./sl2/start_servers.sh"]
+CMD ["bash", "/app/sl2/start_servers.sh"]
