@@ -16,8 +16,8 @@ RUN chmod +x \
     /app/sl2/game/*.sh \
     /app/sl2/login/*.sh \
     /app/sl2/start_servers.sh \
-    /app/sl2/LoginServer.sh \
-    /app/sl2/GameServer.sh
+    /app/sl2/login/LoginServer.sh \
+    /app/sl2/game/GameServer.sh
 
 # Expor as portas necessárias
 EXPOSE 2106 9014 7777
