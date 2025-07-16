@@ -7,6 +7,8 @@ chmod 777 /app/sl2/{game,login}/log
 # 🛠️ Garantir permissões de execução dos scripts
 chmod +x /app/sl2/login/LoginServer.sh
 chmod +x /app/sl2/game/GameServer.sh
+chmod +x /app/sl2/login/LoginServerTask.sh
+chmod +x /app/sl2/game/GameServerTask.sh
 
 # Iniciar LoginServer em segundo plano
 cd /app/sl2/login/ || exit 1
