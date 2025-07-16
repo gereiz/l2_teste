@@ -12,11 +12,10 @@ WORKDIR /app
 COPY ./sl2 /app/sl2
 
 # Dar permissão de execução aos scripts
-RUN chmod +x /app/sl2/game/*.sh
-RUN chmod +x /app/sl2/login/*.sh
-RUN chmod +x /app/sl2/start_servers.sh
+RUN chmod +x /app/sl2/game/*.sh /app/sl2/login/*.sh /app/sl2/start_servers.sh
 
+# Expor as portas necessárias
 EXPOSE 2106 9014 7777
 
-# Executar o script
-CMD [ "/app/sl2/start_servers.sh" ]
+# Executar o script usando bash
+CMD [ "bash", "/app/sl2/start_servers.sh" ]
