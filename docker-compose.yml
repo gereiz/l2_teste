@@ -1,0 +1,38 @@
+version: "3.8"
+services:
+  db:
+    image: mysql:5.7
+    container_name: db
+    environment:
+      MYSQL_ROOT_PASSWORD: 142536
+      MYSQL_DATABASE: l2jteste
+      MYSQL_USER: dyego
+      MYSQL_PASSWORD: 142536
+    volumes:
+      - ./sl2/db_installer/.my.cnf:/root/.my.cnf
+      - ./sl2/db_installer/sql/database.sql:/docker-entrypoint-initdb.d/database.sql
+      - ./mysql:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    networks:
+      - ntw
+    restart: always
+
+  sl2:
+    build: .
+    container_name: sl2
+    volumes:
+      - ./sl2:/app/sl2
+    networks:
+      - ntw
+    ports:
+      - "9014:9014"
+      - "2106:2106"
+      - "7777:7777"
+    depends_on:
+      - db
+    restart: always
+
+networks:
+  ntw:
+    driver: bridge
