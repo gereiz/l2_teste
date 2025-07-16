@@ -13,7 +13,7 @@ services:
       - ./sl2/db_installer/sql/database.sql:/docker-entrypoint-initdb.d/database.sql
       - ./mysql:/var/lib/mysql
     ports:
-      - "3306:3306"
+      - "3307:3307"
     networks:
       - ntw
     restart: always
