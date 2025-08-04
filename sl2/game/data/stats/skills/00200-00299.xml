@@ -1272,7 +1272,7 @@
 		<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26 25 24 22</table>
 		<table name="#enchMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="DANCE_OF_WARRIOR" />
 		<set name="affectRange" val="1000" />
 		<set name="effectPoint" val="523" />
