@@ -3,60 +3,46 @@
 	<npcs>
 		<npc>30088</npc> <!-- Radia -->
 	</npcs>
-	<item id="412" /> <!-- Cotton Pants -->
-	<item id="390" /> <!-- Cotton Shirt -->
-	<item id="24" /> <!-- Bone Breastplate -->
-	<item id="31" /> <!-- Bone Gaiters -->
-	<item id="25" /> <!-- Piece Bone Breastplate -->
-	<item id="26" /> <!-- Bronze Breastplate -->
-	<item id="33" /> <!-- Hard Leather Gaiters -->
-	<item id="32" /> <!-- Piece Bone Gaiters -->
-	<item id="27" /> <!-- Hard Leather Shirt -->
-	<item id="34" /> <!-- Bronze Gaiters -->
-	<item id="413" /> <!-- Puma Skin Gaiters -->
-	<item id="347" /> <!-- Ring Mail Breastplate -->
-	<item id="391" /> <!-- Puma Skin Shirt -->
-	<item id="376" /> <!-- Iron Plate Gaiters -->
-	<item id="414" /> <!-- Lion Skin Gaiters -->
-	<item id="392" /> <!-- Lion Skin Shirt -->
-	<item id="348" /> <!-- Scale Mail -->
-	<item id="349" /> <!-- Compound Scale Mail -->
-	<item id="350" /> <!-- Dwarven Scale Mail -->
-	<item id="58" /> <!-- Mithril Breastplate -->
-	<item id="59" /> <!-- Mithril Gaiters -->
-	<item id="416" /> <!-- Reinforced Leather Gaiters -->
-	<item id="377" /> <!-- Scale Gaiters -->
-	<item id="351" /> <!-- Blast Plate -->
-	<item id="378" /> <!-- Compound Scale Gaiters -->
-	<item id="379" /> <!-- Dwarven Scale Gaiters -->
-	<item id="393" /> <!-- Mithril Banded Mail -->
-	<item id="415" /> <!-- Mithril Banded Gaiters -->
-	<item id="394" /> <!-- Reinforced Leather Shirt -->
-	<item id="2378" /> <!-- Brigandine Gaiters -->
-	<item id="352" /> <!-- Brigandine Tunic -->
-	<item id="395" /> <!-- Manticore Skin Shirt -->
-	<item id="417" /> <!-- Manticore Skin Gaiters -->
-	<item id="102" /> <!-- Round Shield -->
-	<item id="625" /> <!-- Bone Shield -->
-	<item id="626" /> <!-- Bronze Shield -->
-	<item id="627" /> <!-- Aspis -->
-	<item id="628" /> <!-- Hoplon -->
-	<item id="629" /> <!-- Kite Shield -->
-	<item id="50" /> <!-- Leather Gloves -->
-	<item id="51" /> <!-- Bracer -->
-	<item id="604" /> <!-- Crafted Leather Gloves -->
-	<item id="605" /> <!-- Leather Gauntlets -->
-	<item id="63" /> <!-- Gauntlets -->
-	<item id="606" /> <!-- Rip Gauntlets -->
-	<item id="38" /> <!-- Low Boots -->
-	<item id="39" /> <!-- Boots -->
-	<item id="40" /> <!-- Leather Boots -->
-	<item id="1123" /> <!-- Blue Buckskin Boots -->
-	<item id="553" /> <!-- Iron Boots -->
-	<item id="1124" /> <!-- Boots of Power -->
-	<item id="44" /> <!-- Leather Helmet -->
-	<item id="1148" /> <!-- Hard Leather Helmet -->
-	<item id="45" /> <!-- Bone Helmet -->
-	<item id="46" /> <!-- Bronze Helmet -->
-	<item id="47" /> <!-- Helmet -->
+		<item id="60" price="2000000" /> <!-- Composite Armor -->
+	<item id="517" price="2000000" /> <!-- Composite Helmet -->
+	<item id="64" price="2000000" /> <!-- Composite Boots -->
+	<item id="107" price="2000000" /> <!-- Composite Shield -->
+	<item id="354" price="2000000" /> <!-- Chain Mail Shirt -->
+	<item id="381" price="2000000" /> <!-- Chain Gaiters -->
+	<item id="2413" price="2000000" /> <!-- Chain Hood -->
+	<item id="2453" price="2000000" /> <!-- Chain Gloves -->
+	<item id="2429" price="2000000" /> <!-- Chain Boots -->
+	<item id="2495" price="2000000" /> <!-- Chain Shield -->
+	<item id="356" price="2000000" /> <!-- Full Plate Armor -->
+	<item id="2414" price="2000000" /> <!-- Full Plate Helmet -->
+	<item id="2462" price="2000000" /> <!-- Full Plate Gauntlets -->
+	<item id="2438" price="2000000" /> <!-- Full Plate Boots -->
+	<item id="2497" price="2000000" /> <!-- Full Plate Shield -->
+	<item id="397" price="2000000" /> <!-- Mithril Shirt -->
+	<item id="2387" price="2000000" /> <!-- Tempered Mithril Gaiters -->
+	<item id="608" price="2000000" /> <!-- Mithril Gauntlets -->
+	<item id="62" price="2000000" /> <!-- Mithril Boots -->
+	<item id="398" price="2000000" /> <!-- Plated Leather -->
+	<item id="418" price="2000000" /> <!-- Plated Leather Gaiters -->
+	<item id="2455" price="2000000" /> <!-- Plated Leather Gloves -->
+	<item id="2431" price="2000000" /> <!-- Plated Leather Boots -->
+	<item id="400" price="2000000" /> <!-- Theca Leather Armor -->
+	<item id="420" price="2000000" /> <!-- Theca Leather Gaiters -->
+	<item id="2460" price="2000000" /> <!-- Theca Leather Gloves -->
+	<item id="2436" price="2000000" /> <!-- Theca Leather Boots -->
+	<item id="401" price="2000000" /> <!-- Drake Leather Armor -->
+	<item id="2461" price="2000000" /> <!-- Drake Leather Gloves -->
+	<item id="2437" price="2000000" /> <!-- Drake Leather Boots -->
+	<item id="439" price="2000000" /> <!-- Karmian Tunic -->
+	<item id="471" price="2000000" /> <!-- Karmian Stockings -->
+	<item id="2454" price="2000000" /> <!-- Karmian Gloves -->
+	<item id="2430" price="2000000" /> <!-- Karmian Boots -->
+	<item id="441" price="2000000" /> <!-- Demon's Tunic -->
+	<item id="472" price="2000000" /> <!-- Demon's Stockings -->
+	<item id="2459" price="2000000" /> <!-- Demon's Gloves -->
+	<item id="2435" price="2000000" /> <!-- Demon's Boots -->
+	<item id="442" price="2000000" /> <!-- Divine Tunic -->
+	<item id="473" price="2000000" /> <!-- Divine Stockings -->
+	<item id="2463" price="2000000" /> <!-- Divine Gloves -->
+	<item id="603" price="2000000" /> <!-- Divine Boots -->
 </list>

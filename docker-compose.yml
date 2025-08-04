@@ -6,7 +6,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: 142536
       MYSQL_DATABASE: l2jteste
-      MYSQL_USER: dyego
+      MYSQL_USER: gereiz
       MYSQL_PASSWORD: 142536
     volumes:
       - ./sl2/db_installer/.my.cnf:/root/.my.cnf
