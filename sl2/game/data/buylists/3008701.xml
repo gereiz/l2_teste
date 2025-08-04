@@ -3,41 +3,16 @@
 	<npcs>
 		<npc>30087</npc> <!-- Peta -->
 	</npcs>
-	<item id="1104" /> <!-- Stockings of Devotion -->
-	<item id="1101" /> <!-- Tunic of Devotion -->
-	<item id="1105" /> <!-- Stockings of Magic -->
-	<item id="1102" /> <!-- Tunic of Magic -->
-	<item id="465" /> <!-- Cursed Stockings -->
-	<item id="432" /> <!-- Cursed Tunic -->
-	<item id="467" /> <!-- Dark Stockings -->
-	<item id="434" /> <!-- White Tunic -->
-	<item id="468" /> <!-- Mystic's Stockings -->
-	<item id="435" /> <!-- Mystic's Tunic -->
-	<item id="469" /> <!-- Stockings of Knowledge -->
-	<item id="436" /> <!-- Tunic of Knowledge -->
-	<item id="470" /> <!-- Mithril Stockings -->
-	<item id="437" /> <!-- Mithril Tunic -->
-	<item id="102" /> <!-- Round Shield -->
-	<item id="625" /> <!-- Bone Shield -->
-	<item id="626" /> <!-- Bronze Shield -->
-	<item id="627" /> <!-- Aspis -->
-	<item id="628" /> <!-- Hoplon -->
-	<item id="629" /> <!-- Kite Shield -->
-	<item id="50" /> <!-- Leather Gloves -->
-	<item id="51" /> <!-- Bracer -->
-	<item id="604" /> <!-- Crafted Leather Gloves -->
-	<item id="605" /> <!-- Leather Gauntlets -->
-	<item id="63" /> <!-- Gauntlets -->
-	<item id="606" /> <!-- Rip Gauntlets -->
-	<item id="38" /> <!-- Low Boots -->
-	<item id="39" /> <!-- Boots -->
-	<item id="40" /> <!-- Leather Boots -->
-	<item id="1123" /> <!-- Blue Buckskin Boots -->
-	<item id="553" /> <!-- Iron Boots -->
-	<item id="1124" /> <!-- Boots of Power -->
-	<item id="44" /> <!-- Leather Helmet -->
-	<item id="1148" /> <!-- Hard Leather Helmet -->
-	<item id="45" /> <!-- Bone Helmet -->
-	<item id="46" /> <!-- Bronze Helmet -->
-	<item id="47" /> <!-- Helmet -->
+	<item id="439" price="500000" /> <!-- Karmian Tunic -->
+	<item id="471" price="500000" /> <!-- Karmian Stockings -->
+	<item id="2454" price="250000" /> <!-- Karmian Gloves -->
+	<item id="2430" price="250000" /> <!-- Karmian Boots -->
+	<item id="441" price="500000" /> <!-- Demon's Tunic -->
+	<item id="472" price="500000" /> <!-- Demon's Stockings -->
+	<item id="2459" price="250000" /> <!-- Demon's Gloves -->
+	<item id="2435" price="250000" /> <!-- Demon's Boots -->
+	<item id="442" price="500000" /> <!-- Divine Tunic -->
+	<item id="473" price="500000" /> <!-- Divine Stockings -->
+	<item id="2463" price="250000" /> <!-- Divine Gloves -->
+	<item id="603" price="250000" /> <!-- Divine Boots -->
 </list>
