@@ -1543,7 +1543,7 @@
 		<table name="#ench2MpConsume_Init">5 5 5 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 3</table>
 		<table name="#enchMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
 		<set name="abnormalLevel" val="#abnormalLevels" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MD_UP" />
 		<set name="effectPoint" val="#effectPoints" />
 		<set name="hitTime" val="4000" />
@@ -1628,7 +1628,7 @@
 		<table name="#mpInitialConsume">2 3</table>
 		<table name="#rate">1.08 1.12</table>
 		<set name="abnormalLevel" val="#abnormalLevels" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="PA_UP" />
 		<set name="effectPoint" val="#effectPoints" />
 		<set name="hitTime" val="4000" />
@@ -1854,7 +1854,7 @@
 		<table name="#ench2reflectDam">21 21 21 22 22 22 23 23 23 24 24 24 24 25 25 25 26 26 26 27 27 27 27 28 28 28 29 29 29 30</table>
 		<table name="#enchMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
 		<set name="abnormalLevel" val="#abnormalLevels" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="DMG_SHIELD" />
 		<set name="effectPoint" val="#effectPoints" />
 		<set name="hitTime" val="4000" />
@@ -1929,7 +1929,7 @@
 		<table name="#mpInitialConsume">1 2</table>
 		<table name="#rate">1.08 1.12</table>
 		<set name="abnormalLevel" val="#abnormalLevels" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="PD_UP" />
 		<set name="effectPoint" val="#effectPoints" />
 		<set name="hitTime" val="4000" />
@@ -2202,7 +2202,7 @@
 		<table name="#ench2mpInitialConsume">5 5 5 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 3</table>
 		<table name="#enchMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
 		<set name="abnormalLevel" val="#abnormalLevels" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="ATTACK_SPEED_UP_BOW" />
 		<set name="effectPoint" val="#effectPoints" />
 		<set name="hitTime" val="1500" />

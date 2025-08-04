@@ -682,7 +682,7 @@
 	<skill id="2231" levels="1" name="Amulet: Protection of Valakas">
 		<!-- Amulet: Protection of Valakas. Increases one's resistance to attack when Valakas' attacks with its front claws. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="VALAKAS_ITEM" />
 		<set name="hitTime" val="1000" />
 		<set name="icon" val="icon.etc_blesscharm_ward_val_i00" />
@@ -702,7 +702,7 @@
 	<skill id="2232" levels="1" name="Amulet: Slay Valakas">
 		<!-- Amulet: Slay Valakas. Increases one's P. Atk. when fighting against Valakas. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="VALAKAS_ITEM" />
 		<set name="hitTime" val="1000" />
 		<set name="icon" val="icon.etc_blesscharm_slay_val_i00" />
@@ -1029,7 +1029,7 @@
 	<skill id="2248" levels="1" name="Bless of Fire">
 		<!-- Causes normal physical attacks to become fire attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="0" /> <!-- Fire -->
 		<set name="hitTime" val="1000" />
@@ -1050,7 +1050,7 @@
 	<skill id="2249" levels="1" name="Bless of Water">
 		<!-- Causes normal physical attacks to become water attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="1" /> <!-- Water -->
 		<set name="hitTime" val="1000" />
@@ -1071,7 +1071,7 @@
 	<skill id="2250" levels="1" name="Bless of Wind">
 		<!-- Causes normal physical attacks to become wind attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="2" /> <!-- Wind -->
 		<set name="hitTime" val="1000" />
@@ -1092,7 +1092,7 @@
 	<skill id="2251" levels="1" name="Bless of Earth">
 		<!-- Causes normal physical attacks to become earth attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="3" /> <!-- Earth -->
 		<set name="hitTime" val="1000" />
@@ -1113,7 +1113,7 @@
 	<skill id="2252" levels="1" name="Bless of Darkness">
 		<!-- Causes normal physical attacks to become dark attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="5" /> <!-- Dark -->
 		<set name="hitTime" val="1000" />
@@ -1134,7 +1134,7 @@
 	<skill id="2253" levels="1" name="Bless of Sacredness">
 		<!-- Causes normal physical attacks to become sacred attacks. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HOLY_ATTACK" />
 		<set name="element" val="4" /> <!-- Holy -->
 		<set name="hitTime" val="1000" />

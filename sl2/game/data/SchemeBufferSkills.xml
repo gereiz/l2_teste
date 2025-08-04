@@ -9,6 +9,7 @@
 		<buff id="1059" level="1" price="2000" desc="Increases M. Atk." /> <!-- Empower -->
 		<buff id="1062" level="1" price="2000" desc="Reduces def. and increase atk. power." /> <!-- Berserker Spirit -->
 		<buff id="1068" level="1" price="2000" desc="Increases P. Atk." /> <!-- Might -->
+		<buff id="1073" level="1" price="2000" desc="increases lung capacity." /> <!-- Kiss of Eva -->
 		<buff id="1077" level="1" price="2000" desc="Increases critical attack rate." /> <!-- Focus -->
 		<buff id="1078" level="1" price="2000" desc="Increases magic concentration." /> <!-- Concentration -->
 		<buff id="1085" level="1" price="2000" desc="Increases Casting Spd." /> <!-- Acumen -->

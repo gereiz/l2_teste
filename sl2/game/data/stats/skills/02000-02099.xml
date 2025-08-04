@@ -111,7 +111,7 @@
 	<skill id="2011" levels="1" name="Haste Potion">
 		<!-- Increases Speed. Effect 1. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="SPEED_UP" />
 		<set name="icon" val="icon.etc_potion_green_i00" />
 		<set name="isMagic" val="2" /> <!-- Static Skill -->
@@ -127,7 +127,7 @@
 	<skill id="2012" levels="1" name="Potion of Alacrity">
 		<!-- Temporarily increases Atk. Spd. Effect 1. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="ATTACK_TIME_DOWN" />
 		<set name="icon" val="icon.etc_reagent_green_i00" />
 		<set name="isMagic" val="2" /> <!-- Static Skill -->
@@ -327,7 +327,7 @@
 	<skill id="2034" levels="1" name="Greater Haste Potion">
 		<!-- Increases Speed. Effect 2. -->
 		<set name="abnormalLevel" val="2" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="SPEED_UP" />
 		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
 		<set name="isMagic" val="2" /> <!-- Static Skill -->
@@ -343,7 +343,7 @@
 	<skill id="2035" levels="1" name="Greater Swift Attack Potion">
 		<!-- Increases Atk. Spd. Effect 2. -->
 		<set name="abnormalLevel" val="2" />
-		<set name="abnormalTime" val="1200" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="ATTACK_TIME_DOWN" />
 		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
 		<set name="isMagic" val="2" /> <!-- Static Skill -->
