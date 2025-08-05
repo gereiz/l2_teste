@@ -382,7 +382,7 @@
 	<skill id="1413" levels="1" name="Magnus' Chant">
 		<!-- Allows the Ancient Soul of Magnus to temporarily possess a party member. Consumes 40 Spirit Ore. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="300" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MULTI_BUFF" />
 		<set name="affectRange" val="1000" />
 		<set name="effectPoint" val="532" />
