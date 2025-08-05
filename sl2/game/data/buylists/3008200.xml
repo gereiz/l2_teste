@@ -3,25 +3,19 @@
 	<npcs>
 		<npc>30082</npc> <!-- Denkus -->
 	</npcs>
-	<item id="908" /> <!-- Necklace of Wisdom -->
-	<item id="909" /> <!-- Blue Diamond Necklace -->
-	<item id="910" /> <!-- Necklace of Devotion -->
-	<item id="911" /> <!-- Enchanted Necklace -->
-	<item id="912" /> <!-- Near Forest Necklace -->
-	<item id="913" /> <!-- Elven Necklace -->
-	<item id="845" /> <!-- Cat's Eye Earring -->
-	<item id="846" /> <!-- Coral Earring -->
-	<item id="847" /> <!-- Red Crescent Earring -->
-	<item id="848" /> <!-- Enchanted Earring -->
-	<item id="849" /> <!-- Tiger's Eye Earring -->
-	<item id="850" /> <!-- Elven Earring -->
-	<item id="877" /> <!-- Ring of Wisdom -->
-	<item id="878" /> <!-- Blue Coral Ring -->
-	<item id="890" /> <!-- Ring of Devotion -->
-	<item id="879" /> <!-- Enchanted Ring -->
-	<item id="880" /> <!-- Black Pearl Ring -->
-	<item id="881" /> <!-- Elven Ring -->
-	<item id="851" /> <!-- Omen Beast's Eye Earring -->
-	<item id="882" /> <!-- Mithril Ring -->
-	<item id="914" /> <!-- Necklace of Darkness -->
+	<item id="852" price="250000" /> <!-- Moonstone Earring -->
+	<item id="883" price="250000" /> <!-- Aquastone Ring -->
+	<item id="915" price="500000" /> <!-- Aquastone Necklace -->
+	<item id="857" price="250000" /> <!-- Blessed Earring -->
+	<item id="888" price="250000" /> <!-- Blessed Ring -->
+	<item id="919" price="500000" /> <!-- Blessed Necklace -->
+	<item id="855" price="250000" /> <!-- Nassen's Earring -->
+	<item id="885" price="250000" /> <!-- Ring of Ages -->
+	<item id="917" price="500000" /> <!-- Necklace of Mermaid -->
+	<item id="854" price="250000" /> <!-- Earring of Binding -->
+	<item id="886" price="250000" /> <!-- Ring of Binding -->
+	<item id="119" price="500000" /> <!-- Necklace of Binding --> 
+	<item id="853" price="250000" /> <!-- Earring of Protection -->
+	<item id="884" price="250000" /> <!-- Ring of Protection -->
+	<item id="916" price="500000" /> <!-- Necklace of Protection -->
 </list>
