@@ -2,35 +2,52 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
 	<npcs>
 		<npc>30085</npc> <!-- Stanford -->
-	</npcs>
-	<item id="176" /> <!-- Journeyman's Staff -->
-	<item id="310" /> <!-- Relic of The Saints -->
-	<item id="177" /> <!-- Mage Staff -->
-	<item id="311" /> <!-- Crucifix of Blessing -->
-	<item id="100" /> <!-- Voodoo Doll -->
-	<item id="178" /> <!-- Bone Staff -->
-	<item id="101" /> <!-- Scroll of Wisdom -->
-	<item id="7885" /> <!-- Priest Sword -->
-	<item id="312" /> <!-- Branch of Life -->
-	<item id="314" /> <!-- Proof of Revenge -->
-	<item id="179" /> <!-- Mace of Prayer -->
-	<item id="182" /> <!-- Doom Hammer -->
-	<item id="183" /> <!-- Mystic Staff -->
-	<item id="185" /> <!-- Staff of Mana -->
-	<item id="315" /> <!-- Divine Tome -->
-	<item id="83" /> <!-- Sword of Magic -->
-	<item id="143" /> <!-- Sword of Mystic -->
-	<item id="144" /> <!-- Sword of Occult -->
-	<item id="238" /> <!-- Dagger of Mana -->
-	<item id="239" /> <!-- Mystic Knife -->
-	<item id="240" /> <!-- Conjurer's Knife -->
-	<item id="241" /> <!-- Shilen Knife -->
-	<item id="186" /> <!-- Staff of Magic -->
-	<item id="316" /> <!-- Blood of Saints -->
-	<item id="317" /> <!-- Tome of Blood -->
-	<item id="90" /> <!-- Goat Head Staff -->
-	<item id="7886" /> <!-- Sword of Magic Fog -->
-	<item id="7890" /> <!-- Priest Mace -->
-	<item id="318" /> <!-- Crucifix of Blood -->
-	<item id="321" /> <!-- Demon Fangs -->
+	</npcs> 
+	
+	<!-- Swords -->
+	<item id="6309" price="5000000" /> <!-- Sword of Limit - Health -->
+	<item id="6310" price="5000000" /> <!-- Sword of Whispering Death - Empower -->
+	<item id="6311" price="5000000" /> <!-- Sword of Whispering Death - Magic Power -->
+	<item id="6312" price="5000000" /> <!-- Sword of Whispering Death - Magic Silence -->
+	<item id="6313" price="5000000" /> <!-- Homunkulus's Sword - Acumen -->
+	<item id="6314" price="5000000" /> <!-- Homunkulus's Sword - Conversion -->
+	<item id="6315" price="5000000" /> <!-- Homunkulus's Sword - Magic Paralyze -->
+
+	<!-- Daggers -->
+	<item id="7810" price="5000000" /> <!-- Soulfire Dirk - Mana Up -->
+	<item id="7811" price="5000000" /> <!-- Soulfire Dirk - Magic Hold -->
+	<item id="7812" price="5000000" /> <!-- Soulfire Dirk - Magic Silence -->
+
+	<!-- Blunts -->
+	<item id="7701" price="5000000" /> <!-- Stick of Faith - Mana Up -->
+	<item id="7702" price="5000000" /> <!-- Stick of Faith - Magic Hold -->
+	<item id="7703" price="5000000" /> <!-- Stick of Faith - Magic Shield -->
+	<item id="7704" price="5000000" /> <!-- Stick of Eternity - Empower -->
+	<item id="7705" price="5000000" /> <!-- Stick of Eternity - Rsk., Evasion -->
+	<item id="7706" price="5000000" /> <!-- Stick of Eternity - Blessed Body -->
+	<item id="7707" price="5000000" /> <!-- Nirvana Axe - Magic Power -->
+	<item id="7708" price="5000000" /> <!-- Nirvana Axe - Magic Poison -->
+	<item id="7709" price="5000000" /> <!-- Nirvana Axe - Magic Weakness -->
+	<item id="7710" price="5000000" /> <!-- Club of Nature - Acumen -->
+	<item id="7711" price="5000000" /> <!-- Club of Nature - Magic Mental Shield -->
+	<item id="7712" price="5000000" /> <!-- Club of Nature - Magic Hold -->
+	<item id="7713" price="5000000" /> <!-- Mace of The Underworld - Mana Up -->
+	<item id="7714" price="5000000" /> <!-- Mace of The Underworld - Magic Silence -->
+	<item id="7715" price="5000000" /> <!-- Mace of The Underworld - Conversion -->
+
+	<!-- Double Hand Blunts -->
+	<item id="4888" price="5000000" /> <!-- Deadman's Staff - Magic Regeneration -->
+	<item id="4889" price="5000000" /> <!-- Deadman's Staff - Mental Shield -->
+	<item id="4890" price="5000000" /> <!-- Deadman's Staff - Magic Hold -->
+	<item id="4891" price="5000000" /> <!-- Ghoul's Staff - Rsk. Evasion -->
+	<item id="4892" price="5000000" /> <!-- Ghoul's Staff - Mana Up -->
+	<item id="4893" price="5000000" /> <!-- Ghoul's Staff - Bodily Blessing -->
+	<item id="4894" price="5000000" /> <!-- Demon's Staff - Magic Poison -->
+	<item id="4895" price="5000000" /> <!-- Demon's Staff - Magic Weakness -->
+	<item id="4896" price="5000000" /> <!-- Demon's Staff - Magic Chaos -->
+	<item id="6719" price="5000000" /> <!-- Monster Only(Ketra Orc Chieftain) -->
+	<item id="7716" price="5000000" /> <!-- Inferno Staff - Acumen -->
+	<item id="7717" price="5000000" /> <!-- Inferno Staff - Magic Silence -->
+	<item id="7718" price="5000000" /> <!-- Inferno Staff - Magic Paralyze -->
+
 </list>

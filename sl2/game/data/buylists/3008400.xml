@@ -2,62 +2,187 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
 	<npcs>
 		<npc>30084</npc> <!-- Graham -->
-	</npcs>
-	<item id="2" /> <!-- Long Sword -->
-	<item id="218" /> <!-- Throwing Knife -->
-	<item id="272" /> <!-- Forest Bow -->
-	<item id="15" /> <!-- Short Spear -->
-	<item id="68" /> <!-- Falchion -->
-	<item id="219" /> <!-- Sword Breaker -->
-	<item id="273" /> <!-- Composition Bow -->
-	<item id="155" /> <!-- Buzdygan -->
-	<item id="87" /> <!-- Iron Hammer -->
-	<item id="16" /> <!-- Long Spear -->
-	<item id="123" /> <!-- Saber -->
-	<item id="7880" /> <!-- Steel Sword -->
-	<item id="220" /> <!-- Crafted Dagger -->
-	<item id="221" /> <!-- Assassin Knife -->
-	<item id="274" /> <!-- Strengthened Bow -->
-	<item id="156" /> <!-- Hand Axe -->
-	<item id="166" /> <!-- Heavy Mace -->
-	<item id="168" /> <!-- Work Hammer -->
-	<item id="291" /> <!-- Trident -->
-	<item id="69" /> <!-- Bastard Sword -->
-	<item id="126" /> <!-- Artisan's Sword -->
-	<item id="222" /> <!-- Poniard Dagger -->
-	<item id="275" /> <!-- Long Bow -->
-	<item id="276" /> <!-- Elven Bow -->
-	<item id="277" /> <!-- Dark Elven Bow -->
-	<item id="86" /> <!-- Tomahawk -->
-	<item id="292" /> <!-- Pike -->
-	<item id="295" /> <!-- Dwarven Trident -->
-	<item id="124" /> <!-- Two-Handed Sword -->
-	<item id="127" /> <!-- Crimson Sword -->
-	<item id="130" /> <!-- Elven Sword -->
-	<item id="223" /> <!-- Kukuri -->
-	<item id="278" /> <!-- Gastraphetes -->
-	<item id="157" /> <!-- Spiked Club -->
-	<item id="293" /> <!-- War Hammer -->
-	<item id="296" /> <!-- Dwarven Pike -->
-	<item id="129" /> <!-- Sword of Revolution -->
-	<item id="224" /> <!-- Maingauche -->
-	<item id="1660" /> <!-- Cursed Maingauche -->
-	<item id="279" /> <!-- Strengthened Long Bow -->
-	<item id="158" /> <!-- Tarbar -->
-	<item id="7881" /> <!-- Titan Sword -->
-	<item id="7896" /> <!-- Titan Hammer -->
-	<item id="172" /> <!-- Heavy Bone Club -->
-	<item id="294" /> <!-- War Pick -->
-	<item id="93" /> <!-- Winged Spear -->
-	<item id="256" /> <!-- Cestus -->
-	<item id="257" /> <!-- Viper's Fang -->
-	<item id="258" /> <!-- Bagh-Nakh -->
-	<item id="259" /> <!-- Single-Edged Jamadhr -->
-	<item id="260" /> <!-- Triple-Edged Jamadhr -->
-	<item id="261" /> <!-- Bich'Hwa -->
-	<item id="5284" /> <!-- Zweihander -->
-	<item id="5285" /> <!-- Heavy Sword -->
-	<item id="17" /> <!-- Wooden Arrow -->
-	<item id="1341" /> <!-- Bone Arrow -->
-	<item id="1342" /> <!-- Fine Steel Arrow -->
+	</npcs> 
+	<!-- Swords -->
+	<item id="4681" price="5000000" /> <!-- Stormbringer - Critical Anger -->
+	<item id="4682" price="5000000" /> <!-- Stormbringer - Focus -->
+	<item id="4683" price="5000000" /> <!-- Stormbringer - Light -->
+	<item id="4684" price="5000000" /> <!-- Shamshir - Guidance -->
+	<item id="4685" price="5000000" /> <!-- Shamshir - Back Blow -->
+	<item id="4686" price="5000000" /> <!-- Shamshir - Rsk. Evasion -->
+	<item id="4687" price="5000000" /> <!-- Katana - Focus -->
+	<item id="4688" price="5000000" /> <!-- Katana - Critical Damage -->
+	<item id="4689" price="5000000" /> <!-- Katana - Haste -->
+	<item id="4690" price="5000000" /> <!-- Spirit Sword - Critical Damage -->
+	<item id="4691" price="5000000" /> <!-- Spirit Sword - Critical Poison -->
+	<item id="4692" price="5000000" /> <!-- Spirit Sword - Haste -->
+	<item id="4693" price="5000000" /> <!-- Raid Sword - Focus -->
+	<item id="4694" price="5000000" /> <!-- Raid Sword - Critical Drain -->
+	<item id="4695" price="5000000" /> <!-- Raid Sword - Critical Poison -->
+	<item id="4696" price="5000000" /> <!-- Caliburs - Guidance -->
+	<item id="4697" price="5000000" /> <!-- Caliburs - Focus -->
+	<item id="4698" price="5000000" /> <!-- Caliburs - Critical Damage -->
+	<item id="4699" price="5000000" /> <!-- Sword of Delusion - Focus -->
+	<item id="4700" price="5000000" /> <!-- Sword of Delusion - Health -->
+	<item id="4701" price="5000000" /> <!-- Sword of Delusion - Rsk. Haste -->
+	<item id="4702" price="5000000" /> <!-- Tsurugi - Focus -->
+	<item id="4703" price="5000000" /> <!-- Tsurugi - Critical Damage -->
+	<item id="4704" price="5000000" /> <!-- Tsurugi - Haste -->
+	<item id="4705" price="5000000" /> <!-- Sword of Nightmare - Health -->
+	<item id="4706" price="5000000" /> <!-- Sword of Nightmare - Focus -->
+	<item id="4707" price="5000000" /> <!-- Sword of Nightmare - Light -->
+	<item id="4708" price="5000000" /> <!-- Samurai Longsword - Focus -->
+	<item id="4709" price="5000000" /> <!-- Samurai Longsword - Critical Damage -->
+	<item id="4710" price="5000000" /> <!-- Samurai Longsword - Haste -->
+	<item id="6307" price="5000000" /> <!-- Sword of Limit - Guidance -->
+	<item id="6308" price="5000000" /> <!-- Sword of Limit - Critical Drain -->
+	<item id="6309" price="5000000" /> <!-- Sword of Limit - Health -->
+
+	<!-- Double hand Swords -->
+		<item id="71" price="5000000" /> <!-- Flamberge -->
+	<item id="4711" price="5000000" /> <!-- Flamberge - Critical Damage -->
+	<item id="4712" price="5000000" /> <!-- Flamberge - Focus -->
+	<item id="4713" price="5000000" /> <!-- Flamberge - Light -->
+	<item id="5286" price="5000000" /> <!-- Berserker Blade -->
+	<item id="6347" price="5000000" /> <!-- Berserker Blade - Focus -->
+	<item id="6348" price="5000000" /> <!-- Berserker Blade - Critical Damage -->
+	<item id="6349" price="5000000" /> <!-- Berserker Blade - Haste -->
+
+	<!-- Dual Swords -->
+	<item id="2523" price="5000000" /> <!-- Saber*Sword of Revolution -->
+	<item id="2524" price="5000000" /> <!-- Saber*Elven Long Sword -->
+	<item id="2531" price="5000000" /> <!-- Bastard Sword*Sword of Revolution -->
+	<item id="2532" price="5000000" /> <!-- Bastard Sword*Elven Long Sword -->
+	<item id="2538" price="5000000" /> <!-- Spinebone Sword*Sword of Revolution -->
+	<item id="2539" price="5000000" /> <!-- Spinebone Sword*Elven Long Sword -->
+	<item id="2544" price="5000000" /> <!-- Artisan's Sword*Sword of Revolution -->
+	<item id="2545" price="5000000" /> <!-- Artisan's Sword*Elven Long Sword -->
+	<item id="2549" price="5000000" /> <!-- Knight's Sword*Sword of Revolution -->
+	<item id="2550" price="5000000" /> <!-- Knight's Sword*Elven Long Sword -->
+	<item id="2551" price="5000000" /> <!-- Crimson Sword*Crimson Sword -->
+	<item id="2552" price="5000000" /> <!-- Crimson Sword*Elven Sword -->
+	<item id="2553" price="5000000" /> <!-- Crimson Sword*Sword of Revolution -->
+	<item id="2554" price="5000000" /> <!-- Crimson Sword*Elven Long Sword -->
+	<item id="2555" price="5000000" /> <!-- Elven Sword*Elven Sword -->
+	<item id="2556" price="5000000" /> <!-- Elven Sword*Sword of Revolution -->
+	<item id="2557" price="5000000" /> <!-- Elven Sword*Elven Long Sword -->
+	<item id="2558" price="5000000" /> <!-- Sword of Revolution*Sword of Revolution -->
+	<item id="2559" price="5000000" /> <!-- Sword of Revolution*Elven Long Sword -->
+	<item id="2560" price="5000000" /> <!-- Elven Long Sword*Elven Long Sword -->
+	<item id="2561" price="5000000" /> <!-- Stormbringer*Stormbringer -->
+	<item id="2562" price="5000000" /> <!-- Stormbringer*Shamshir -->
+	<item id="2563" price="5000000" /> <!-- Stormbringer*Katana -->
+	<item id="2564" price="5000000" /> <!-- Stormbringer*Spirit Sword -->
+	<item id="2565" price="5000000" /> <!-- Stormbringer*Raid Sword -->
+	<item id="2572" price="5000000" /> <!-- Shamshir*Shamshir -->
+	<item id="2573" price="5000000" /> <!-- Shamshir*Katana -->
+	<item id="2574" price="5000000" /> <!-- Shamshir*Spirit Sword -->
+	<item id="2575" price="5000000" /> <!-- Shamshir*Raid Sword -->
+	<item id="2582" price="5000000" /> <!-- Katana*Katana -->
+	<item id="2583" price="5000000" /> <!-- Katana*Spirit Sword -->
+	<item id="2584" price="5000000" /> <!-- Katana*Raid Sword -->
+	<item id="2591" price="5000000" /> <!-- Spirit Sword*Spirit Sword -->
+	<item id="2592" price="5000000" /> <!-- Spirit Sword*Raid Sword -->
+	<item id="2599" price="5000000" /> <!-- Raid Sword*Raid Sword -->
+
+	<!-- Daggers -->
+	<item id="4759" price="5000000" /> <!-- Cursed Dagger - Critical Bleed -->
+	<item id="4760" price="5000000" /> <!-- Cursed Dagger - Critical Poison -->
+	<item id="4761" price="5000000" /> <!-- Cursed Dagger - Rsk. Haste -->
+	<item id="4762" price="5000000" /> <!-- Dark Elven Dagger - Focus -->
+	<item id="4763" price="5000000" /> <!-- Dark Elven Dagger - Back Blow -->
+	<item id="4764" price="5000000" /> <!-- Dark Elven Dagger - Mortal Strike -->
+	<item id="4765" price="5000000" /> <!-- Stiletto - Critical Bleed -->
+	<item id="4766" price="5000000" /> <!-- Stiletto - Critical Poison -->
+	<item id="4767" price="5000000" /> <!-- Stiletto - Mortal Strike -->
+	<item id="4768" price="5000000" /> <!-- Grace Dagger - Evasion -->
+	<item id="4769" price="5000000" /> <!-- Grace Dagger - Focus -->
+	<item id="4770" price="5000000" /> <!-- Grace Dagger - Back Blow -->
+	<item id="4771" price="5000000" /> <!-- Dark Screamer - Evasion -->
+	<item id="4772" price="5000000" /> <!-- Dark Screamer - Focus -->
+	<item id="4773" price="5000000" /> <!-- Dark Screamer - Critical Bleed -->
+	<item id="4774" price="5000000" /> <!-- Crystal Dagger - Critical Bleed -->
+	<item id="4775" price="5000000" /> <!-- Crystal Dagger - Critical Poison -->
+	<item id="4776" price="5000000" /> <!-- Crystal Dagger - Mortal Strike -->
+	<item id="6356" price="5000000" /> <!-- Dark Elven Dagger - Rsk. Haste -->
+	<item id="6357" price="5000000" /> <!-- Stiletto - Rsk. Haste -->
+	<item id="6358" price="5000000" /> <!-- Crystal Dagger - Critical Damage -->
+
+	<!-- Bows -->
+	<item id="281" price="5000000" /> <!-- Crystallized Ice Bow -->
+	<item id="282" price="5000000" /> <!-- Elemental Bow -->
+	<item id="283" price="5000000" /> <!-- Akat Long Bow -->
+	<item id="285" price="5000000" /> <!-- Noble Elven Bow -->
+	<item id="286" price="5000000" /> <!-- Eminence Bow -->
+	<item id="4810" price="5000000" /> <!-- Crystallized Ice Bow - Guidance -->
+	<item id="4811" price="5000000" /> <!-- Crystallized Ice Bow - Evasion -->
+	<item id="4812" price="5000000" /> <!-- Crystallized Ice Bow - Quick Recovery -->
+	<item id="4813" price="5000000" /> <!-- Elemental Bow - Guidance -->
+	<item id="4814" price="5000000" /> <!-- Elemental Bow - Miser -->
+	<item id="4815" price="5000000" /> <!-- Elemental Bow - Quick Recovery -->
+	<item id="4816" price="5000000" /> <!-- Elven Bow of Nobility - Evasion -->
+	<item id="4817" price="5000000" /> <!-- Elven Bow of Nobility - Miser -->
+	<item id="4818" price="5000000" /> <!-- Elven Bow of Nobility - Cheap Shot -->
+	<item id="4819" price="5000000" /> <!-- Akat Long Bow - Guidance -->
+	<item id="4820" price="5000000" /> <!-- Akat Long Bow - Evasion -->
+	<item id="4821" price="5000000" /> <!-- Akat Long Bow - Miser -->
+	<item id="4822" price="5000000" /> <!-- Eminence Bow - Guidance -->
+	<item id="4823" price="5000000" /> <!-- Eminence Bow - Miser -->
+	<item id="4824" price="5000000" /> <!-- Eminence Bow - Cheap Shot -->
+
+	<!-- Fists -->
+	<item id="4789" price="5000000" /> <!-- Chakram - Critical Drain -->
+	<item id="4790" price="5000000" /> <!-- Chakram - Critical Poison -->
+	<item id="4791" price="5000000" /> <!-- Chakram - Rsk. Haste -->
+	<item id="4792" price="5000000" /> <!-- Fisted Blade - Rsk. Evasion -->
+	<item id="4793" price="5000000" /> <!-- Fisted Blade - Rsk. Haste -->
+	<item id="4794" price="5000000" /> <!-- Fisted Blade - Haste -->
+	<item id="4795" price="5000000" /> <!-- Great Pata - Critical Drain -->
+	<item id="4796" price="5000000" /> <!-- Great Pata - Critical Poison -->
+	<item id="4797" price="5000000" /> <!-- Great Pata - Rsk. Haste -->
+	<item id="4798" price="5000000" /> <!-- Knuckle Duster - Rsk. Evasion -->
+	<item id="4799" price="5000000" /> <!-- Knuckle Duster - Rsk. Haste -->
+	<item id="4800" price="5000000" /> <!-- Knuckle Duster - Haste -->
+
+	<!-- Polearms -->
+	<item id="4834" price="5000000" /> <!-- Scythe - Anger -->
+	<item id="4835" price="5000000" /> <!-- Scythe - Critical Stun -->
+	<item id="4836" price="5000000" /> <!-- Scythe - Light -->
+	<item id="4837" price="5000000" /> <!-- Orcish Glaive - Anger -->
+	<item id="4838" price="5000000" /> <!-- Orcish Glaive - Critical Stun -->
+	<item id="4839" price="5000000" /> <!-- Orcish Glaive - Towering Blow -->
+	<item id="4840" price="5000000" /> <!-- Body Slasher - Critical Stun -->
+	<item id="4841" price="5000000" /> <!-- Body Slasher - Towering Blow -->
+	<item id="4842" price="5000000" /> <!-- Body Slasher - Wide Blow -->
+	<item id="4843" price="5000000" /> <!-- Bec de Corbin - Critical Stun -->
+	<item id="4844" price="5000000" /> <!-- Bec de Corbin - Towering Blow -->
+	<item id="4845" price="5000000" /> <!-- Bec de Corbin - Light -->
+	<item id="4846" price="5000000" /> <!-- Scorpion - Anger -->
+	<item id="4847" price="5000000" /> <!-- Scorpion - Critical Stun -->
+	<item id="4848" price="5000000" /> <!-- Scorpion - Towering Blow -->
+	<item id="4849" price="5000000" /> <!-- Widow Maker - Critical Stun -->
+	<item id="4850" price="5000000" /> <!-- Widow Maker - Towering Blow -->
+	<item id="4851" price="5000000" /> <!-- Widow Maker - Wide Blow -->
+	<item id="4852" price="5000000" /> <!-- Orcish Poleaxe - Critical Stun -->
+	<item id="4853" price="5000000" /> <!-- Orcish Poleaxe - Towering Blow -->
+	<item id="4854" price="5000000" /> <!-- Orcish Poleaxe - Wide Blow -->
+	<item id="7719" price="5000000" /> <!-- Poleaxe - Critical Stun -->
+	<item id="7720" price="5000000" /> <!-- Poleaxe - Towering Blow -->
+	<item id="7721" price="5000000" /> <!-- Poleaxe - Wide Blow -->
+
+	<!-- Blunts -->
+	<item id="4734" price="5000000" /> <!-- Silver Axe - Haste -->
+	<item id="4735" price="5000000" /> <!-- Skull Graver - Anger -->
+	<item id="4736" price="5000000" /> <!-- Skull Graver - Health -->
+	<item id="4737" price="5000000" /> <!-- Skull Graver - Rsk.Focus -->
+	<item id="4738" price="5000000" /> <!-- Dwarven War Hammer - Anger -->
+	<item id="4739" price="5000000" /> <!-- Dwarven War Hammer - Health -->
+	<item id="4740" price="5000000" /> <!-- Dwarven War Hammer - Haste -->
+	<item id="4741" price="5000000" /> <!-- War Axe - Anger -->
+	<item id="4742" price="5000000" /> <!-- War Axe - Health -->
+	<item id="4743" price="5000000" /> <!-- War Axe - Haste -->
+	<item id="4744" price="5000000" /> <!-- Yaksa Mace - Anger -->
+	<item id="4745" price="5000000" /> <!-- Yaksa Mace - Health -->
+	<item id="4746" price="5000000" /> <!-- Yaksa Mace - Rsk. Focus -->
+
 </list>

@@ -4,7 +4,7 @@
 		<npc>30088</npc> <!-- Radia -->
 	</npcs>
 	<item id="60" price="1000000" /> <!-- Composite Armor -->
-	<item id="517" price="30000" /> <!-- Composite Helmet -->
+	<item id="517" price="300000" /> <!-- Composite Helmet -->
 	<item id="64" price="250000" /> <!-- Composite Boots -->
 	<item id="107" price="500000" /> <!-- Composite Shield -->
 	<item id="354" price="500000" /> <!-- Chain Mail Shirt -->
