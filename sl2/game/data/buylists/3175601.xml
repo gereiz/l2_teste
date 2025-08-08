@@ -79,6 +79,7 @@
 	<item id="735" price="4800" /> <!-- Potion of Alacrity -->
 	<item id="1060" price="180" /> <!-- Lesser Healing Potion -->
 	<item id="1061" price="660" /> <!-- Healing Potion -->
+	<item id="728" price="5000" /> <!-- Mana Potion -->
 	<item id="1374" price="6000" /> <!-- Greater Haste Potion -->
 	<item id="1375" price="12000" /> <!-- Greater Swift Attack Potion -->
 	<item id="1539" price="1800" /> <!-- Greater Healing Potion -->
