@@ -8,7 +8,6 @@
 		<current enchant="16-30" chance="30" />
 		<current enchant="31-65535" chance="0" />
 	</enchantRateGroup>
-	</enchantRateGroup>
 
 
 	<!-- General full armor enchant group. -->
