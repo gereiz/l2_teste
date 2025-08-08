@@ -3,40 +3,40 @@
 	<npcs>
 		<npc>30178</npc> <!-- Zenkin -->
 	</npcs>
-	<item id="412" /> <!-- Cotton Pants -->
-	<item id="390" /> <!-- Cotton Shirt -->
-	<item id="24" /> <!-- Bone Breastplate -->
-	<item id="31" /> <!-- Bone Gaiters -->
-	<item id="25" /> <!-- Piece Bone Breastplate -->
-	<item id="26" /> <!-- Bronze Breastplate -->
-	<item id="33" /> <!-- Hard Leather Gaiters -->
-	<item id="32" /> <!-- Piece Bone Gaiters -->
-	<item id="27" /> <!-- Hard Leather Shirt -->
-	<item id="34" /> <!-- Bronze Gaiters -->
-	<item id="413" /> <!-- Puma Skin Gaiters -->
-	<item id="347" /> <!-- Ring Mail Breastplate -->
-	<item id="376" /> <!-- Iron Plate Gaiters -->
-	<item id="391" /> <!-- Puma Skin Shirt -->
-	<item id="414" /> <!-- Lion Skin Gaiters -->
-	<item id="392" /> <!-- Lion Skin Shirt -->
-	<item id="58" /> <!-- Mithril Breastplate -->
-	<item id="59" /> <!-- Mithril Gaiters -->
-	<item id="102" /> <!-- Round Shield -->
-	<item id="625" /> <!-- Bone Shield -->
-	<item id="626" /> <!-- Bronze Shield -->
-	<item id="627" /> <!-- Aspis -->
-	<item id="50" /> <!-- Leather Gloves -->
-	<item id="51" /> <!-- Bracer -->
-	<item id="604" /> <!-- Crafted Leather Gloves -->
-	<item id="605" /> <!-- Leather Gauntlets -->
-	<item id="38" /> <!-- Low Boots -->
-	<item id="39" /> <!-- Boots -->
-	<item id="40" /> <!-- Leather Boots -->
-	<item id="1123" /> <!-- Blue Buckskin Boots -->
-	<item id="44" /> <!-- Leather Helmet -->
-	<item id="1148" /> <!-- Hard Leather Helmet -->
-	<item id="45" /> <!-- Bone Helmet -->
-	<item id="46" /> <!-- Bronze Helmet -->
-	<item id="415" /> <!-- Mithril Banded Gaiters -->
-	<item id="393" /> <!-- Mithril Banded Mail -->
+	<item id="357" price="2000000" /> <!-- Zubei's Breastplate -->
+	<item id="383" price="2000000" /> <!-- Zubei's Gaiters -->
+	<item id="503" price="1000000" /> <!-- Zubei's Helmet -->
+	<item id="5710" price="750000" /> <!-- Zubei's Gauntlets - Heavy Armor -->
+	<item id="5726" price="750000" /> <!-- Zubei's Boots - Heavy Armor -->
+	<item id="633" price="1500000" /> <!-- Zubei's Shield -->
+	<item id="358" price="2000000" /> <!-- Blue Wolf Breastplate -->
+	<item id="2380" price="2000000" /> <!-- Blue Wolf Gaiters -->
+	<item id="2416" price="1000000" /> <!-- Blue Wolf Helmet -->
+	<item id="5718" price="750000" /> <!-- Blue Wolf Gloves - Heavy Armor -->
+	<item id="5734" price="750000" /> <!-- Blue Wolf Boots - Heavy Armor -->
+	<item id="2376" price="2000000" /> <!-- Avadon Breastplate -->
+	<item id="2379" price="2000000" /> <!-- Avadon Gaiters -->
+	<item id="2415" price="1000000" /> <!-- Avadon Circlet -->
+	<item id="5714" price="750000" /> <!-- Avadon Gloves - Heavy Armor -->
+	<item id="5730" price="750000" /> <!-- Avadon Boots - Heavy Armor -->
+	<item id="673" price="1500000" /> <!-- Avadon Shield -->
+	<item id="2381" price="4000000" /> <!-- Doom Plate Armor -->
+	<item id="2417" price="1000000" /> <!-- Doom Helmet -->
+	<item id="5722" price="750000" /> <!-- Doom Gloves - Heavy Armor -->
+	<item id="5738" price="750000" /> <!-- Doom Boots - Heavy Armor -->
+	<item id="110" price="1500000" /> <!-- Doom Shield -->
+	<item id="2384" price="2000000" /> <!-- Zubei's Leather Shirt -->
+	<item id="2388" price="2000000" /> <!-- Zubei's Leather Gaiters -->
+	<item id="5711" price="750000" /> <!-- Zubei's Gauntlets - Light Armor -->
+	<item id="5727" price="750000" /> <!-- Zubei's Boots - Light Armor -->
+	<item id="2390" price="4000000" /> <!-- Avadon Leather Armor -->
+	<item id="5715" price="750000" /> <!-- Avadon Gloves - Light Armor -->
+	<item id="5731" price="750000" /> <!-- Avadon Boots - Light Armor -->
+	<item id="2391" price="4000000" /> <!-- Blue Wolf Leather Armor -->
+	<item id="5719" price="750000" /> <!-- Blue Wolf Gloves - Light Armor -->
+	<item id="5735" price="750000" /> <!-- Blue Wolf Boots - Light Armor -->
+	<item id="2392" price="4000000" /> <!-- Leather Armor of Doom -->
+	<item id="5723" price="750000" /> <!-- Doom Gloves - Light Armor -->
+	<item id="5739" price="750000" /> <!-- Doom Boots - Light Armor -->
+	
 </list>

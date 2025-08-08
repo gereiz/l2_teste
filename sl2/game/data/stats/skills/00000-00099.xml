@@ -1593,7 +1593,7 @@
 	<skill id="76" levels="1" name="Bear Spirit Totem">
 		<!-- The spirit of the bear possesses you, temporarily increasing P. Atk. and critical attack power when using hand-to-hand combat weapons. Speed is decreased while the effect lasts. An equipped hand-to-hand combat weapon is required to use this skill. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" /> <!-- Epilogue Modification -->
+		<set name="abnormalTime" val="3600" /> <!-- Epilogue Modification -->
 		<set name="abnormalType" val="POSSESSION" />
 		<!-- <set name="abnormalVisualEffect" val="STUN" /> Epilogue Modification -->
 		<set name="effectPoint" val="268" />

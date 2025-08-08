@@ -302,7 +302,7 @@
 	<skill id="109" levels="1" name="Ogre Spirit Totem">
 		<!-- The spirit of the Ogre possesses you, temporarily increasing P. Def. and M. Def. when using hand-to-hand combat weapons. Speed and Evasion are decreased while the effect lasts. An equipped hand-to-hand combat weapon is required to use this skill. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" /> <!-- Epilogue Modification -->
+		<set name="abnormalTime" val="3600" /> <!-- Epilogue Modification -->
 		<set name="abnormalType" val="POSSESSION" />
 		<set name="effectPoint" val="438" />
 		<set name="hitTime" val="2000" />

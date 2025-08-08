@@ -3,25 +3,22 @@
 	<npcs>
 		<npc>30179</npc> <!-- Raudia -->
 	</npcs>
-	<item id="176" /> <!-- Journeyman's Staff -->
-	<item id="310" /> <!-- Relic of The Saints -->
-	<item id="177" /> <!-- Mage Staff -->
-	<item id="311" /> <!-- Crucifix of Blessing -->
-	<item id="100" /> <!-- Voodoo Doll -->
-	<item id="178" /> <!-- Bone Staff -->
-	<item id="101" /> <!-- Scroll of Wisdom -->
-	<item id="7885" /> <!-- Priest Sword -->
-	<item id="312" /> <!-- Branch of Life -->
-	<item id="314" /> <!-- Proof of Revenge -->
-	<item id="179" /> <!-- Mace of Prayer -->
-	<item id="182" /> <!-- Doom Hammer -->
-	<item id="183" /> <!-- Mystic Staff -->
-	<item id="185" /> <!-- Staff of Mana -->
-	<item id="315" /> <!-- Divine Tome -->
-	<item id="83" /> <!-- Sword of Magic -->
-	<item id="143" /> <!-- Sword of Mystic -->
-	<item id="144" /> <!-- Sword of Occult -->
-	<item id="238" /> <!-- Dagger of Mana -->
-	<item id="239" /> <!-- Mystic Knife -->
-	<item id="240" /> <!-- Conjurer's Knife -->
+	<!-- Swords -->
+	<item id="7722" price="10000000" /> <!-- Sword of Valhalla - Acumen -->
+	<item id="7723" price="10000000" /> <!-- Sword of Valhalla - Magic Weakness -->
+	<item id="7724" price="10000000" /> <!-- Sword of Valhalla - Magic Regeneration -->
+
+	<!-- Daggers -->
+	<item id="7813" price="10000000" /> <!-- Hell Knife - Magic Regeneration -->
+	<item id="7814" price="10000000" /> <!-- Hell Knife - Mental Shield -->
+	<item id="7815" price="10000000" /> <!-- Hell Knife - Magic Weakness -->
+
+	<!-- Double Hands Blunts -->
+	<item id="4897" price="10000000" /> <!-- Sprite's Staff - Magic Regeneration -->
+	<item id="4898" price="10000000" /> <!-- Sprite's Staff - Mental Shield -->
+	<item id="4899" price="10000000" /> <!-- Sprite's Staff - Magic Hold -->
+	<item id="4900" price="10000000" /> <!-- Staff of Evil Spirits - Magic Focus -->
+	<item id="4901" price="10000000" /> <!-- Staff of Evil Spirits - Bodily Blessing -->
+	<item id="4902" price="10000000" /> <!-- Staff of Evil Spirits - Magic Poison -->
+
 </list>

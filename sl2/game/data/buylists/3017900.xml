@@ -3,33 +3,121 @@
 	<npcs>
 		<npc>30179</npc> <!-- Raudia -->
 	</npcs>
-	<item id="2" /> <!-- Long Sword -->
-	<item id="218" /> <!-- Throwing Knife -->
-	<item id="272" /> <!-- Forest Bow -->
-	<item id="15" /> <!-- Short Spear -->
-	<item id="68" /> <!-- Falchion -->
-	<item id="219" /> <!-- Sword Breaker -->
-	<item id="273" /> <!-- Composition Bow -->
-	<item id="155" /> <!-- Buzdygan -->
-	<item id="87" /> <!-- Iron Hammer -->
-	<item id="16" /> <!-- Long Spear -->
-	<item id="123" /> <!-- Saber -->
-	<item id="7880" /> <!-- Steel Sword -->
-	<item id="220" /> <!-- Crafted Dagger -->
-	<item id="221" /> <!-- Assassin Knife -->
-	<item id="274" /> <!-- Strengthened Bow -->
-	<item id="156" /> <!-- Hand Axe -->
-	<item id="166" /> <!-- Heavy Mace -->
-	<item id="168" /> <!-- Work Hammer -->
-	<item id="291" /> <!-- Trident -->
-	<item id="69" /> <!-- Bastard Sword -->
-	<item id="222" /> <!-- Poniard Dagger -->
-	<item id="275" /> <!-- Long Bow -->
-	<item id="277" /> <!-- Dark Elven Bow -->
-	<item id="292" /> <!-- Pike -->
-	<item id="295" /> <!-- Dwarven Trident -->
-	<item id="256" /> <!-- Cestus -->
-	<item id="257" /> <!-- Viper's Fang -->
-	<item id="258" /> <!-- Bagh-Nakh -->
-	<item id="259" /> <!-- Single-Edged Jamadhr -->
+	<!-- Swords -->
+	<item id="4714" price="10000000" /> <!-- Keshanberk - Guidance -->
+	<item id="4715" price="10000000" /> <!-- Keshanberk - Focus -->
+	<item id="4716" price="10000000" /> <!-- Keshanberk - Back Blow -->
+	<item id="4717" price="10000000" /> <!-- Sword of Damascus - Focus -->
+	<item id="4718" price="10000000" /> <!-- Sword of Damascus - Critical Damage -->
+	<item id="4719" price="10000000" /> <!-- Sword of Damascus - Haste -->
+
+	<!-- Double hand Swords -->
+	<item id="4723" price="10000000" /> <!-- Great Sword - Health -->
+	<item id="4724" price="10000000" /> <!-- Great Sword - Critical Damage -->
+	<item id="4725" price="10000000" /> <!-- Great Sword - Focus -->
+
+	<!-- Dual Swords -->
+	<item id="2566" price="10000000" /> <!-- Stormbringer*Caliburs -->
+	<item id="2567" price="10000000" /> <!-- Stormbringer*Sword of Limit -->
+	<item id="2568" price="10000000" /> <!-- Stormbringer*Sword of Delusion -->
+	<item id="2569" price="10000000" /> <!-- Stormbringer*Sword of Nightmare -->
+	<item id="2570" price="10000000" /> <!-- Stormbringer*Tsurugi -->
+	<item id="2571" price="10000000" /> <!-- Stormbringer*Samurai Long sword -->
+	<item id="2576" price="10000000" /> <!-- Shamshir*Caliburs -->
+	<item id="2577" price="10000000" /> <!-- Shamshir*Sword of Limit -->
+	<item id="2578" price="10000000" /> <!-- Shamshir*Sword of Delusion -->
+	<item id="2579" price="10000000" /> <!-- Shamshir*Sword of Nightmare -->
+	<item id="2580" price="10000000" /> <!-- Shamshir*Tsurugi -->
+	<item id="2581" price="10000000" /> <!-- Shamshir*Samurai Long Sword -->
+	<item id="2585" price="10000000" /> <!-- Katana*Caliburs -->
+	<item id="2586" price="10000000" /> <!-- Katana*Sword of Limit -->
+	<item id="2587" price="10000000" /> <!-- Katana*Sword of Delusion -->
+	<item id="2588" price="10000000" /> <!-- Katana*Sword of Nightmare -->
+	<item id="2589" price="10000000" /> <!-- Katana*Tsurugi -->
+	<item id="2590" price="10000000" /> <!-- Katana*Samurai Long Sword -->
+	<item id="2593" price="10000000" /> <!-- Spirit Sword*Caliburs -->
+	<item id="2594" price="10000000" /> <!-- Spirit Sword*Sword of Limit -->
+	<item id="2595" price="10000000" /> <!-- Spirit Sword*Sword of Delusion -->
+	<item id="2596" price="10000000" /> <!-- Spirit Sword*Sword of Nightmare -->
+	<item id="2597" price="10000000" /> <!-- Spirit Sword*Tsurugi -->
+	<item id="2598" price="10000000" /> <!-- Spirit Sword*Samurai Long Sword -->
+	<item id="2600" price="10000000" /> <!-- Raid Sword*Caliburs -->
+	<item id="2601" price="10000000" /> <!-- Raid Sword*Sword of Limit -->
+	<item id="2602" price="10000000" /> <!-- Raid Sword*Sword of Delusion -->
+	<item id="2603" price="10000000" /> <!-- Raid Sword*Sword of Nightmare -->
+	<item id="2604" price="10000000" /> <!-- Raid Sword*Tsurugi -->
+	<item id="2605" price="10000000" /> <!-- Raid Sword*Samurai Long Sword -->
+	<item id="2606" price="10000000" /> <!-- Caliburs*Caliburs -->
+	<item id="2607" price="10000000" /> <!-- Caliburs*Sword of Limit -->
+	<item id="2608" price="10000000" /> <!-- Caliburs*Sword of Delusion -->
+	<item id="2609" price="10000000" /> <!-- Caliburs*Sword of Nightmare -->
+	<item id="2610" price="10000000" /> <!-- Caliburs*Tsurugi -->
+	<item id="2611" price="10000000" /> <!-- Caliburs*Samurai Long Sword -->
+	<item id="2612" price="10000000" /> <!-- Sword of Limit*Sword of Limit -->
+	<item id="2613" price="10000000" /> <!-- Sword of Limit*Sword of Delusion -->
+	<item id="2614" price="10000000" /> <!-- Sword of Limit*Sword of Nightmare -->
+	<item id="2615" price="10000000" /> <!-- Sword of Limit*Tsurugi -->
+	<item id="2616" price="10000000" /> <!-- Sword of Limit*Samurai Long Sword -->
+	<item id="2617" price="10000000" /> <!-- Sword of Delusion*Sword of Delusion -->
+	<item id="2618" price="10000000" /> <!-- Sword of Delusion*Sword of Nightmare -->
+	<item id="2619" price="10000000" /> <!-- Sword of Delusion*Tsurugi -->
+	<item id="2620" price="10000000" /> <!-- Sword of Delusion*Samurai Long Sword -->
+	<item id="2621" price="10000000" /> <!-- Sword of Nightmare*Sword of Nightmare -->
+	<item id="2622" price="10000000" /> <!-- Sword of Nightmare*Tsurugi -->
+	<item id="2623" price="10000000" /> <!-- Sword of Nightmare*Samurai Long Sword -->
+	<item id="2624" price="10000000" /> <!-- Tsurugi*Tsurugi -->
+	<item id="2625" price="10000000" /> <!-- Tsurugi*Samurai Long Sword -->
+	<item id="2626" price="10000000" /> <!-- Samurai Long Sword*Samurai Long Sword -->
+	<item id="6722" price="10000000" /> <!-- Monster Only(Ahrimanes) -->
+
+	<!-- Daggers -->
+	<item id="4777" price="10000000" /> <!-- Kris - Evasion -->
+	<item id="4778" price="10000000" /> <!-- Kris - Focus -->
+	<item id="4779" price="10000000" /> <!-- Kris - Back Blow -->
+	<item id="4780" price="10000000" /> <!-- Demon Dagger - Critical Bleed -->
+	<item id="4781" price="10000000" /> <!-- Demon Dagger - Critical Poison -->
+	<item id="4782" price="10000000" /> <!-- Demon Dagger - Mortal Strike -->
+	<item id="4786" price="10000000" /> <!-- Hell Knife - Focus -->
+	<item id="4787" price="10000000" /> <!-- Hell Knife - Back Blow -->
+	<item id="4788" price="10000000" /> <!-- Hell Knife - Mortal Strike -->
+	<item id="6359" price="10000000" /> <!-- Demon Dagger - Critical Damage -->
+
+	<!-- Bows -->
+	<item id="284" price="10000000" /> <!-- Dark Elven Long Bow -->
+	<item id="287" price="10000000" /> <!-- Bow of Peril -->
+	<item id="4825" price="10000000" /> <!-- Dark Elven Long Bow - Evasion -->
+	<item id="4826" price="10000000" /> <!-- Dark Elven Long Bow - Critical Bleed -->
+	<item id="4827" price="10000000" /> <!-- Dark Elven Long Bow - Miser -->
+	<item id="4828" price="10000000" /> <!-- Bow of Peril - Guidance -->
+	<item id="4829" price="10000000" /> <!-- Bow of Peril - Quick Recovery -->
+	<item id="4830" price="10000000" /> <!-- Bow of Peril - Cheap Shot -->
+
+	<!-- Fists -->
+	<item id="4801" price="10000000" /> <!-- Arthro Nail - Critical Poison -->
+	<item id="4802" price="10000000" /> <!-- Arthro Nail - Rsk. Evasion -->
+	<item id="4803" price="10000000" /> <!-- Arthro Nail - Rsk. Haste -->
+	<item id="4804" price="10000000" /> <!-- Bellion Cestus - Critical Drain -->
+	<item id="4805" price="10000000" /> <!-- Bellion Cestus - Critical Poison -->
+	<item id="4806" price="10000000" /> <!-- Bellion Cestus - Rsk. Haste -->
+
+	<!-- Polearms -->
+	<item id="4855" price="10000000" /> <!-- Great Axe - Anger -->
+	<item id="4856" price="10000000" /> <!-- Great Axe - Critical Stun -->
+	<item id="4857" price="10000000" /> <!-- Great Axe - Light -->
+	<item id="4858" price="10000000" /> <!-- Lance - Anger -->
+	<item id="4859" price="10000000" /> <!-- Lance - Critical Stun -->
+	<item id="4860" price="10000000" /> <!-- Lance - Towering Blow -->
+
+	<!-- Blunts -->
+	<item id="4747" price="10000000" /> <!-- Heavy War Axe - Anger -->
+	<item id="4748" price="10000000" /> <!-- Heavy War Axe - Health -->
+	<item id="4749" price="10000000" /> <!-- Heavy War Axe - Rsk. Focus -->
+	<item id="4750" price="10000000" /> <!-- Deadman's Glory - Anger -->
+	<item id="4751" price="10000000" /> <!-- Deadman's Glory - Health -->
+	<item id="4752" price="10000000" /> <!-- Deadman's Glory - Haste -->
+	<item id="4753" price="10000000" /> <!-- Art of Battle Axe - Health -->
+	<item id="4754" price="10000000" /> <!-- Art of Battle Axe - Rsk. Focus -->
+	<item id="4755" price="10000000" /> <!-- Art of Battle Axe - Haste -->
+	<item id="7834" price="10000000" /> <!-- Art of Battle Axe -->
+
 </list>

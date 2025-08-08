@@ -2065,7 +2065,7 @@
 	<skill id="298" levels="1" name="Rabbit Spirit Totem">
 		<!-- The spirit of the rabbit possesses you, temporarily increasing Speed and Evasion when using hand-to-hand combat weapons. Accuracy and P. Atk. are decreased while the effect lasts. An equipped hand-to-hand combat weapon is required to use this skill. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="POSSESSION" />
 		<set name="effectPoint" val="582" />
 		<set name="hitTime" val="2000" />

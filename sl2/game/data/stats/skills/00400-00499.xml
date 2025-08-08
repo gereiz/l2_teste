@@ -855,7 +855,7 @@
 	<skill id="425" levels="1" name="Hawk Spirit Totem">
 		<!-- The spirit of the great hawk possesses you, temporarily increasing Accuracy, critical attack rate and critical attack power when using hand-to-hand combat weapons. An equipped hand-to-hand combat weapon is required to use this skill. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="POSSESSION" />
 		<set name="effectPoint" val="268" />
 		<set name="hitTime" val="2000" />
@@ -1059,7 +1059,7 @@
 	<skill id="437" levels="1" name="Song of Silence">
 		<!-- Sing the Song of Silence to temporarily disable all enemy physical and magical skills. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="SILENCE_ALL" />
 		<set name="abnormalVisualEffect" val="SILENCE" />
 		<set name="activateRate" val="40" />

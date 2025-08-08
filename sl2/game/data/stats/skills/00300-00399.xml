@@ -588,7 +588,7 @@
 		<table name="#magicLevel">40 49 58 66 74</table>
 		<table name="#mpConsume">18 22 27 31 34</table>
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="NONE" />
 		<set name="abnormalVisualEffect" val="NONE" />
 		<set name="effectPoint" val="303" />
@@ -1825,7 +1825,7 @@
 	<skill id="366" levels="1" name="Dance of Shadows">
 		<!-- Temporarily decreases speed and gives party members the ability to be unaffected by a monster's preemptive attack. Continuous dancing consumes additional MP. Usable when equipped with a two-blade weapon. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="DANCE_OF_SHADOW" />
 		<set name="abnormalVisualEffect" val="STEALTH" />
 		<set name="affectRange" val="1000" />
@@ -2268,7 +2268,7 @@
 	<skill id="396" levels="1" name="Heroic Berserker">
 		<!-- Temporarily yet significantly increases Accuracy, P. Atk., M. Atk., Atk. Spd., Casting Spd., Speed, resistance to buff canceling attacks and debuff attacks, and the effects of HP regeneration magic. Significantly decreases P. Def., M. Def., and Evasion while the effect lasts. Consumes 40 Soul Ore. -->
 		<set name="abnormalLevel" val="3" />
-		<set name="abnormalTime" val="120" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="HERO_BUFF" />
 		<set name="blockedInOlympiad" val="true" />
 		<set name="effectPoint" val="331" />
