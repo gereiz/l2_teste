@@ -766,11 +766,13 @@
 				<group chance="70">
 					<item id="57" min="1629" max="3312" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0076">
-					<item id="2379" min="1" max="1" chance="30.2632" /> <!-- Avadon Gaiters -->
-					<item id="2376" min="1" max="1" chance="19.7368" /> <!-- Avadon Breastplate -->
-					<item id="383" min="1" max="1" chance="30.2632" /> <!-- Zubei's Gaiters -->
-					<item id="357" min="1" max="1" chance="19.7368" /> <!-- Zubei's Breastplate -->
+				<group chance="5">
+					<item id="902" min="1" max="1" chance="20.0000" /> <!-- Phoenix Ring -->
+					<item id="871" min="1" max="1" chance="20.0000" /> <!-- Phoenix Earring -->
+					<item id="933" min="1" max="1" chance="10.0000" /> <!-- Phoenix Necklace -->
+					<item id="899" min="1" max="1" chance="20.0000" /> <!-- Ring of Phantom -->
+					<item id="868" min="1" max="1" chance="20.0000" /> <!-- Earring of Phantom -->
+					<item id="930" min="1" max="1" chance="10.0000" /> <!-- Necklace of Phantom -->
 				</group>
 				<group chance="33.4831">
 					<item id="4065" min="1" max="1" chance="1.2457" /> <!-- Avadon Gaiters Material -->
@@ -858,9 +860,13 @@
 				<group chance="70">
 					<item id="57" min="1629" max="3312" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0014">
-					<item id="91" min="1" max="1" chance="50" /> <!-- Heavy War Axe -->
-					<item id="92" min="1" max="1" chance="50" /> <!-- Sprite's Staff -->
+				<group chance="5">
+					<item id="902" min="1" max="1" chance="20.0000" /> <!-- Phoenix Ring -->
+					<item id="871" min="1" max="1" chance="20.0000" /> <!-- Phoenix Earring -->
+					<item id="933" min="1" max="1" chance="10.0000" /> <!-- Phoenix Necklace -->
+					<item id="899" min="1" max="1" chance="20.0000" /> <!-- Ring of Phantom -->
+					<item id="868" min="1" max="1" chance="20.0000" /> <!-- Earring of Phantom -->
+					<item id="930" min="1" max="1" chance="10.0000" /> <!-- Necklace of Phantom -->
 				</group>
 				<group chance="16.0085">
 					<item id="4106" min="1" max="1" chance="1.04882" /> <!-- Sprite's Staff Head -->
@@ -942,10 +948,13 @@
 				<group chance="70">
 					<item id="57" min="1929" max="3913" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0018">
-					<item id="78" min="1" max="1" chance="33.3333" /> <!-- Great Sword -->
-					<item id="148" min="1" max="1" chance="33.3333" /> <!-- Sword of Valhalla -->
-					<item id="142" min="1" max="1" chance="33.3333" /> <!-- Keshanberk -->
+				<group chance="5">
+					<item id="902" min="1" max="1" chance="20.0000" /> <!-- Phoenix Ring -->
+					<item id="871" min="1" max="1" chance="20.0000" /> <!-- Phoenix Earring -->
+					<item id="933" min="1" max="1" chance="10.0000" /> <!-- Phoenix Necklace -->
+					<item id="899" min="1" max="1" chance="20.0000" /> <!-- Ring of Phantom -->
+					<item id="868" min="1" max="1" chance="20.0000" /> <!-- Earring of Phantom -->
+					<item id="930" min="1" max="1" chance="10.0000" /> <!-- Necklace of Phantom -->
 				</group>
 				<group chance="31.7688">
 					<item id="4108" min="1" max="1" chance="0.41676" /> <!-- Sword of Valhalla Blade -->
@@ -1029,8 +1038,10 @@
 				<group chance="70">
 					<item id="57" min="1904" max="3863" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0017">
-					<item id="284" min="1" max="1" chance="100" /> <!-- Dark Elven Long Bow -->
+				<group chance="5">
+					<item id="903" min="1" max="1" chance="20.0000" /> <!-- Cerberus Ring -->
+					<item id="872" min="1" max="1" chance="20.0000" /> <!-- Cerberus Earring -->
+					<item id="934" min="1" max="1" chance="10.0000" /> <!-- Cerberus Necklace -->
 				</group>
 				<group chance="54.3434">
 					<item id="4112" min="1" max="1" chance="0.72502" /> <!-- Dark Elven Longbow Shaft -->
@@ -1101,11 +1112,10 @@
 				<group chance="70">
 					<item id="57" min="1736" max="3516" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.007">
-					<item id="2404" min="1" max="1" chance="30" /> <!-- Stockings of Doom -->
-					<item id="2403" min="1" max="1" chance="30" /> <!-- Blue Wolf Stockings -->
-					<item id="2399" min="1" max="1" chance="20" /> <!-- Tunic of Doom -->
-					<item id="2398" min="1" max="1" chance="20" /> <!-- Blue Wolf Tunic -->
+				<group chance="5">
+					<item id="903" min="1" max="1" chance="20.0000" /> <!-- Cerberus Ring -->
+					<item id="872" min="1" max="1" chance="20.0000" /> <!-- Cerberus Earring -->
+					<item id="934" min="1" max="1" chance="10.0000" /> <!-- Cerberus Necklace -->
 				</group>
 				<group chance="44.0514">
 					<item id="4087" min="1" max="1" chance="0.84379" /> <!-- Stockings of Doom Pattern -->
@@ -1194,11 +1204,13 @@
 				<group chance="70">
 					<item id="57" min="2004" max="4060" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0184">
-					<item id="2487" min="1" max="1" chance="25" /> <!-- Blue Wolf Gloves -->
-					<item id="2475" min="1" max="1" chance="25" /> <!-- Doom Gloves -->
-					<item id="2439" min="1" max="1" chance="25" /> <!-- Blue Wolf Boots -->
-					<item id="601" min="1" max="1" chance="25" /> <!-- Boots of Doom -->
+				<group chance="5">
+					<item id="902" min="1" max="1" chance="20.0000" /> <!-- Phoenix Ring -->
+					<item id="871" min="1" max="1" chance="20.0000" /> <!-- Phoenix Earring -->
+					<item id="933" min="1" max="1" chance="10.0000" /> <!-- Phoenix Necklace -->
+					<item id="899" min="1" max="1" chance="20.0000" /> <!-- Ring of Phantom -->
+					<item id="868" min="1" max="1" chance="20.0000" /> <!-- Earring of Phantom -->
+					<item id="930" min="1" max="1" chance="10.0000" /> <!-- Necklace of Phantom -->
 				</group>
 				<group chance="31.4482">
 					<item id="4091" min="1" max="1" chance="2.61096" /> <!-- Doom Gloves Part -->
@@ -1279,9 +1291,10 @@
 				<group chance="70">
 					<item id="57" min="2487" max="5035" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0052">
-					<item id="2391" min="1" max="1" chance="50" /> <!-- Blue Wolf Leather Armor -->
-					<item id="2392" min="1" max="1" chance="50" /> <!-- Leather Armor of Doom -->
+				<group chance="5">
+					<item id="903" min="1" max="1" chance="20.0000" /> <!-- Cerberus Ring -->
+					<item id="872" min="1" max="1" chance="20.0000" /> <!-- Cerberus Earring -->
+					<item id="934" min="1" max="1" chance="10.0000" /> <!-- Cerberus Necklace -->
 				</group>
 				<group chance="47.7307">
 					<item id="4083" min="1" max="1" chance="1.07457" /> <!-- Leather Armor of Doom Design -->
@@ -1364,9 +1377,10 @@
 				<group chance="70">
 					<item id="57" min="2075" max="4201" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0044">
-					<item id="2391" min="1" max="1" chance="50" /> <!-- Blue Wolf Leather Armor -->
-					<item id="2392" min="1" max="1" chance="50" /> <!-- Leather Armor of Doom -->
+				<group chance="5">
+					<item id="893" min="1" max="1" chance="40.0000" /> <!-- Majestic Ring -->
+					<item id="862" min="1" max="1" chance="40.0000" /> <!-- Majestic Earring -->
+					<item id="924" min="1" max="1" chance="20.0000" /> <!-- Majestic Necklace -->
 				</group>
 				<group chance="45.6631">
 					<item id="4083" min="1" max="1" chance="0.93708" /> <!-- Leather Armor of Doom Design -->
@@ -1450,9 +1464,7 @@
 				<group chance="70">
 					<item id="57" min="2015" max="4076" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0012">
-					<item id="268" min="1" max="1" chance="100" /> <!-- Bellion Cestus -->
-				</group>
+				 
 				<group chance="38.1933">
 					<item id="4120" min="1" max="1" chance="0.84099" /> <!-- Bellion Cestus Edge -->
 					<item id="4402" min="1" max="1" chance="0.0631" /> <!-- Blue Dimensional Stone -->
@@ -1702,10 +1714,10 @@
 					<item id="57" min="3442" max="6979" chance="100" /> <!-- Adena -->
 				</group>
 				<!-- <group chance="0.0297"> -->
-				<group chance="70">
-					<item id="926" min="1" max="1" chance="23.2323" /> <!-- Necklace of Black Ore -->
-					<item id="895" min="1" max="1" chance="46.1279" /> <!-- Ring of Black Ore -->
-					<item id="864" min="1" max="1" chance="30.6397" /> <!-- Earring of Black Ore -->
+				<group chance="5">
+					<item id="893" min="1" max="1" chance="40.0000" /> <!-- Majestic Ring -->
+					<item id="862" min="1" max="1" chance="40.0000" /> <!-- Majestic Earring -->
+					<item id="924" min="1" max="1" chance="20.0000" /> <!-- Majestic Necklace -->
 				</group>
 				<group chance="39.6415">
 					<item id="4053" min="1" max="1" chance="4.53237" /> <!-- Ring of Black Ore Gemstone -->
@@ -1875,8 +1887,10 @@
 				<group chance="70">
 					<item id="57" min="2713" max="5501" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0016">
-					<item id="97" min="1" max="1" chance="100" /> <!-- Lance -->
+				<group chance="5">
+					<item id="893" min="1" max="1" chance="40.0000" /> <!-- Majestic Ring -->
+					<item id="862" min="1" max="1" chance="40.0000" /> <!-- Majestic Earring -->
+					<item id="924" min="1" max="1" chance="20.0000" /> <!-- Majestic Necklace -->
 				</group>
 				<group chance="35.687">
 					<item id="4115" min="1" max="1" chance="1.21221" /> <!-- Lance Blade -->
