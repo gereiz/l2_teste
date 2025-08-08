@@ -3805,11 +3805,107 @@
 				<group chance="70">
 					<item id="57" min="7216" max="14682" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0127">
-					<item id="5293" min="1" max="1" chance="21.2598" /> <!-- Sealed Tallum Plate Armor -->
-					<item id="5288" min="1" max="1" chance="48.0315" /> <!-- Sealed Dark Crystal Gaiters -->
-					<item id="5287" min="1" max="1" chance="30.7087" /> <!-- Sealed Dark Crystal breastplate -->
-				</group>
+				<group chance="5"> <!-- Weapons Grade A Agument -->
+					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
+					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
+					<item id="5598" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Acumen -->
+					<item id="5599" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Focus -->
+					<item id="5600" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Critical Bleed -->
+					<item id="5601" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Rsk. Haste -->
+					<item id="5602" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Health -->
+					<item id="5603" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Anger -->
+					<item id="5604" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Critical Drain -->
+					<item id="5605" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Conversion -->
+					<item id="5606" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Magic Damage -->
+					<item id="5607" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Acumen -->
+					<item id="5608" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Light -->
+					<item id="5609" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Critical Bleed -->
+					<item id="5610" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Mana Up -->
+					<item id="5611" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Cheap Shot -->
+					<item id="5612" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Quick Recovery -->
+					<item id="5613" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Critical Poison -->
+					<item id="5614" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Focus -->
+					<item id="5615" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Back Blow -->
+					<item id="5616" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Critical Bleed -->
+					<item id="5617" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Guidance -->
+					<item id="5618" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Critical Damage -->
+					<item id="5619" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Rsk. Haste -->
+					<item id="5620" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Haste -->
+					<item id="5621" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Focus -->
+					<item id="5622" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Anger -->
+					<item id="5623" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Rsk. Evasion -->
+					<item id="5624" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Guidance -->
+					<item id="5625" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Health -->
+					<item id="5626" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Haste -->
+					<item id="5627" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Critical Stun -->
+					<item id="5628" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Wide Blow -->
+					<item id="5632" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Guidance -->
+					<item id="5633" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Health -->
+					<item id="5634" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Wide Blow -->
+					<item id="5635" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Critical Poison -->
+					<item id="5636" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Haste -->
+					<item id="5637" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Anger -->
+					<item id="5638" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Power -->
+					<item id="5639" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Paralyze -->
+					<item id="5640" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Empower -->
+					<item id="5641" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Power -->
+					<item id="5642" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Silence -->
+					<item id="5643" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Acumen -->
+					<item id="5644" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Health -->
+					<item id="5645" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Bleed -->
+					<item id="5646" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Drain -->
+					<item id="5647" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Critical Damage -->
+					<item id="5648" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Health -->
+					<item id="5649" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Rsk. Focus -->
+					<item id="8788" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Haste -->
+					<item id="8789" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Health -->
+					<item id="8790" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Critical Poison -->
+					<item id="8791" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Focus -->
+					<item id="8792" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Haste -->
+					<item id="8793" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Health -->
+					<item id="8794" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Health -->
+					<item id="8795" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Haste -->
+					<item id="8796" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Focus -->
+					<item id="8797" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Focus -->
+					<item id="8798" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Health -->
+					<item id="8799" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Anger -->
+					<item id="8800" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Focus -->
+					<item id="8801" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Critical Damage -->
+					<item id="8802" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Back Blow -->
+					<item id="8803" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Critical Stun -->
+					<item id="8804" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Towering Blow -->
+					<item id="8805" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Wild Blow -->
+					<item id="8806" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Cheap Shot -->
+					<item id="8807" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Focus -->
+					<item id="8808" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Quick Recovery -->
+					<item id="8809" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Rsk. Haste -->
+					<item id="8810" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Haste -->
+					<item id="8811" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Critical Drain -->
+					<item id="8812" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Mana Up -->
+					<item id="8813" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Mental Shield -->
+					<item id="8814" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Focus -->
+					<item id="8815" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Conversion -->
+					<item id="8816" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Mana Up -->
+					<item id="8817" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Magic Silence -->
+					<item id="8818" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Mana Up -->
+					<item id="8819" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Acumen -->
+					<item id="8820" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Magic Mental Shield -->
+					<item id="8126" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Health -->
+					<item id="8127" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Haste -->
+					<item id="8128" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Critical Drain -->
+					<item id="8135" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Health -->
+					<item id="8136" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Anger -->
+					<item id="8137" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Rsk. Haste -->
+					<item id="8147" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Mana Up -->
+					<item id="8148" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Magic Poison -->
+					<item id="8149" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Acumen -->
+					<item id="8150" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Acumen -->
+					<item id="8151" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Power -->
+					<item id="8152" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Silence -->
+					<item id="5704" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Keshanberk -->
+					<item id="5705" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Damascus -->
+					<item id="5706" min="1" max="1" chance="1.0204"  /> <!-- Damascus*Damascus -->
+				</group>								
 				<group chance="39.9259">
 					<item id="5524" min="1" max="1" chance="2.17478" /> <!-- Sealed Dark Crystal Gaiters Pattern -->
 					<item id="5521" min="1" max="1" chance="1.00411" /> <!-- Sealed Tallum Plate Armor Pattern -->
@@ -3891,10 +3987,38 @@
 				<group chance="70">
 					<item id="57" min="3706" max="7555" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0066">
-					<item id="5293" min="1" max="1" chance="21.2121" /> <!-- Sealed Tallum Plate Armor -->
-					<item id="5288" min="1" max="1" chance="48.4849" /> <!-- Sealed Dark Crystal Gaiters -->
-					<item id="5287" min="1" max="1" chance="30.303" /> <!-- Sealed Dark Crystal breastplate -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="43.1431">
 					<item id="5524" min="1" max="1" chance="1.03539" /> <!-- Sealed Dark Crystal Gaiters Pattern -->
@@ -3976,11 +4100,38 @@
 				<group chance="70">
 					<item id="57" min="4173" max="8520" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0268">
-					<item id="5296" min="1" max="1" chance="25" /> <!-- Sealed Tallum Boots -->
-					<item id="5295" min="1" max="1" chance="25" /> <!-- Sealed Tallum Gloves -->
-					<item id="5291" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Boots -->
-					<item id="5290" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Gloves -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="45.2838">
 					<item id="5509" min="1" max="1" chance="1.98283" /> <!-- Sealed Tallum Gloves Design -->
@@ -4062,10 +4213,38 @@
 				<group chance="70">
 					<item id="57" min="4206" max="8563" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0205">
-					<item id="5294" min="1" max="1" chance="29.2683" /> <!-- Sealed Tallum Helmet -->
-					<item id="5292" min="1" max="1" chance="41.4634" /> <!-- Sealed Dark Crystal Shield -->
-					<item id="5289" min="1" max="1" chance="29.2683" /> <!-- Sealed Dark Crystal Helmet -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="35.6006">
 					<item id="5526" min="1" max="1" chance="2.23086" /> <!-- Sealed Tallum Helm Design -->
@@ -4209,11 +4388,107 @@
 				<group chance="70">
 					<item id="57" min="9880" max="20139" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0173">
-					<item id="5293" min="1" max="1" chance="20.8092" /> <!-- Sealed Tallum Plate Armor -->
-					<item id="5288" min="1" max="1" chance="48.5549" /> <!-- Sealed Dark Crystal Gaiters -->
-					<item id="5287" min="1" max="1" chance="30.6358" /> <!-- Sealed Dark Crystal breastplate -->
-				</group>
+				<group chance="5"> <!-- Weapons Grade A Agument -->
+					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
+					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
+					<item id="5598" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Acumen -->
+					<item id="5599" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Focus -->
+					<item id="5600" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Critical Bleed -->
+					<item id="5601" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Rsk. Haste -->
+					<item id="5602" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Health -->
+					<item id="5603" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Anger -->
+					<item id="5604" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Critical Drain -->
+					<item id="5605" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Conversion -->
+					<item id="5606" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Magic Damage -->
+					<item id="5607" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Acumen -->
+					<item id="5608" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Light -->
+					<item id="5609" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Critical Bleed -->
+					<item id="5610" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Mana Up -->
+					<item id="5611" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Cheap Shot -->
+					<item id="5612" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Quick Recovery -->
+					<item id="5613" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Critical Poison -->
+					<item id="5614" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Focus -->
+					<item id="5615" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Back Blow -->
+					<item id="5616" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Critical Bleed -->
+					<item id="5617" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Guidance -->
+					<item id="5618" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Critical Damage -->
+					<item id="5619" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Rsk. Haste -->
+					<item id="5620" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Haste -->
+					<item id="5621" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Focus -->
+					<item id="5622" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Anger -->
+					<item id="5623" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Rsk. Evasion -->
+					<item id="5624" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Guidance -->
+					<item id="5625" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Health -->
+					<item id="5626" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Haste -->
+					<item id="5627" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Critical Stun -->
+					<item id="5628" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Wide Blow -->
+					<item id="5632" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Guidance -->
+					<item id="5633" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Health -->
+					<item id="5634" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Wide Blow -->
+					<item id="5635" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Critical Poison -->
+					<item id="5636" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Haste -->
+					<item id="5637" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Anger -->
+					<item id="5638" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Power -->
+					<item id="5639" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Paralyze -->
+					<item id="5640" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Empower -->
+					<item id="5641" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Power -->
+					<item id="5642" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Silence -->
+					<item id="5643" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Acumen -->
+					<item id="5644" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Health -->
+					<item id="5645" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Bleed -->
+					<item id="5646" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Drain -->
+					<item id="5647" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Critical Damage -->
+					<item id="5648" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Health -->
+					<item id="5649" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Rsk. Focus -->
+					<item id="8788" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Haste -->
+					<item id="8789" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Health -->
+					<item id="8790" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Critical Poison -->
+					<item id="8791" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Focus -->
+					<item id="8792" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Haste -->
+					<item id="8793" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Health -->
+					<item id="8794" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Health -->
+					<item id="8795" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Haste -->
+					<item id="8796" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Focus -->
+					<item id="8797" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Focus -->
+					<item id="8798" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Health -->
+					<item id="8799" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Anger -->
+					<item id="8800" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Focus -->
+					<item id="8801" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Critical Damage -->
+					<item id="8802" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Back Blow -->
+					<item id="8803" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Critical Stun -->
+					<item id="8804" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Towering Blow -->
+					<item id="8805" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Wild Blow -->
+					<item id="8806" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Cheap Shot -->
+					<item id="8807" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Focus -->
+					<item id="8808" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Quick Recovery -->
+					<item id="8809" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Rsk. Haste -->
+					<item id="8810" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Haste -->
+					<item id="8811" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Critical Drain -->
+					<item id="8812" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Mana Up -->
+					<item id="8813" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Mental Shield -->
+					<item id="8814" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Focus -->
+					<item id="8815" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Conversion -->
+					<item id="8816" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Mana Up -->
+					<item id="8817" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Magic Silence -->
+					<item id="8818" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Mana Up -->
+					<item id="8819" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Acumen -->
+					<item id="8820" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Magic Mental Shield -->
+					<item id="8126" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Health -->
+					<item id="8127" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Haste -->
+					<item id="8128" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Critical Drain -->
+					<item id="8135" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Health -->
+					<item id="8136" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Anger -->
+					<item id="8137" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Rsk. Haste -->
+					<item id="8147" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Mana Up -->
+					<item id="8148" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Magic Poison -->
+					<item id="8149" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Acumen -->
+					<item id="8150" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Acumen -->
+					<item id="8151" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Power -->
+					<item id="8152" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Silence -->
+					<item id="5704" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Keshanberk -->
+					<item id="5705" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Damascus -->
+					<item id="5706" min="1" max="1" chance="1.0204"  /> <!-- Damascus*Damascus -->
+				</group>								
 				<group chance="46.4756">
 					<item id="5524" min="1" max="1" chance="2.56199" /> <!-- Sealed Dark Crystal Gaiters Pattern -->
 					<item id="5521" min="1" max="1" chance="1.18277" /> <!-- Sealed Tallum Plate Armor Pattern -->
@@ -4295,12 +4570,39 @@
 				<group chance="70">
 					<item id="57" min="5315" max="10834" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.034">
-					<item id="5296" min="1" max="1" chance="25" /> <!-- Sealed Tallum Boots -->
-					<item id="5295" min="1" max="1" chance="25" /> <!-- Sealed Tallum Gloves -->
-					<item id="5291" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Boots -->
-					<item id="5290" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Gloves -->
-				</group>
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
+				</group>			
 				<group chance="53.1684">
 					<item id="5509" min="1" max="1" chance="2.14921" /> <!-- Sealed Tallum Gloves Design -->
 					<item id="5508" min="1" max="1" chance="2.14921" /> <!-- Sealed Dark Crystal Gloves Design -->
@@ -4442,11 +4744,107 @@
 				<group chance="70">
 					<item id="57" min="10270" max="20955" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0239">
-					<item id="5301" min="1" max="1" chance="20.9205" /> <!-- Sealed Tallum Leather Armor -->
-					<item id="5298" min="1" max="1" chance="48.5356" /> <!-- Sealed Dark Crystal Leggings -->
-					<item id="5297" min="1" max="1" chance="30.5439" /> <!-- Sealed Dark Crystal Leather Armor -->
-				</group>
+				<group chance="5"> <!-- Weapons Grade A Agument -->
+					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
+					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
+					<item id="5598" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Acumen -->
+					<item id="5599" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Focus -->
+					<item id="5600" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Critical Bleed -->
+					<item id="5601" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Rsk. Haste -->
+					<item id="5602" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Health -->
+					<item id="5603" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Anger -->
+					<item id="5604" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Critical Drain -->
+					<item id="5605" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Conversion -->
+					<item id="5606" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Magic Damage -->
+					<item id="5607" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Acumen -->
+					<item id="5608" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Light -->
+					<item id="5609" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Critical Bleed -->
+					<item id="5610" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Mana Up -->
+					<item id="5611" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Cheap Shot -->
+					<item id="5612" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Quick Recovery -->
+					<item id="5613" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Critical Poison -->
+					<item id="5614" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Focus -->
+					<item id="5615" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Back Blow -->
+					<item id="5616" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Critical Bleed -->
+					<item id="5617" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Guidance -->
+					<item id="5618" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Critical Damage -->
+					<item id="5619" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Rsk. Haste -->
+					<item id="5620" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Haste -->
+					<item id="5621" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Focus -->
+					<item id="5622" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Anger -->
+					<item id="5623" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Rsk. Evasion -->
+					<item id="5624" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Guidance -->
+					<item id="5625" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Health -->
+					<item id="5626" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Haste -->
+					<item id="5627" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Critical Stun -->
+					<item id="5628" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Wide Blow -->
+					<item id="5632" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Guidance -->
+					<item id="5633" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Health -->
+					<item id="5634" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Wide Blow -->
+					<item id="5635" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Critical Poison -->
+					<item id="5636" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Haste -->
+					<item id="5637" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Anger -->
+					<item id="5638" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Power -->
+					<item id="5639" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Paralyze -->
+					<item id="5640" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Empower -->
+					<item id="5641" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Power -->
+					<item id="5642" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Silence -->
+					<item id="5643" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Acumen -->
+					<item id="5644" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Health -->
+					<item id="5645" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Bleed -->
+					<item id="5646" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Drain -->
+					<item id="5647" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Critical Damage -->
+					<item id="5648" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Health -->
+					<item id="5649" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Rsk. Focus -->
+					<item id="8788" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Haste -->
+					<item id="8789" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Health -->
+					<item id="8790" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Critical Poison -->
+					<item id="8791" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Focus -->
+					<item id="8792" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Haste -->
+					<item id="8793" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Health -->
+					<item id="8794" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Health -->
+					<item id="8795" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Haste -->
+					<item id="8796" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Focus -->
+					<item id="8797" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Focus -->
+					<item id="8798" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Health -->
+					<item id="8799" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Anger -->
+					<item id="8800" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Focus -->
+					<item id="8801" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Critical Damage -->
+					<item id="8802" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Back Blow -->
+					<item id="8803" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Critical Stun -->
+					<item id="8804" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Towering Blow -->
+					<item id="8805" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Wild Blow -->
+					<item id="8806" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Cheap Shot -->
+					<item id="8807" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Focus -->
+					<item id="8808" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Quick Recovery -->
+					<item id="8809" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Rsk. Haste -->
+					<item id="8810" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Haste -->
+					<item id="8811" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Critical Drain -->
+					<item id="8812" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Mana Up -->
+					<item id="8813" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Mental Shield -->
+					<item id="8814" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Focus -->
+					<item id="8815" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Conversion -->
+					<item id="8816" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Mana Up -->
+					<item id="8817" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Magic Silence -->
+					<item id="8818" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Mana Up -->
+					<item id="8819" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Acumen -->
+					<item id="8820" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Magic Mental Shield -->
+					<item id="8126" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Health -->
+					<item id="8127" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Haste -->
+					<item id="8128" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Critical Drain -->
+					<item id="8135" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Health -->
+					<item id="8136" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Anger -->
+					<item id="8137" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Rsk. Haste -->
+					<item id="8147" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Mana Up -->
+					<item id="8148" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Magic Poison -->
+					<item id="8149" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Acumen -->
+					<item id="8150" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Acumen -->
+					<item id="8151" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Power -->
+					<item id="8152" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Silence -->
+					<item id="5704" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Keshanberk -->
+					<item id="5705" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Damascus -->
+					<item id="5706" min="1" max="1" chance="1.0204"  /> <!-- Damascus*Damascus -->
+				</group>								
 				<group chance="15.0751">
 					<item id="5482" min="1" max="1" chance="10.9969" /> <!-- Sealed Dark Crystal Leggings Design -->
 					<item id="5479" min="1" max="1" chance="4.92998" /> <!-- Sealed Tallum Leather Armor Pattern -->
@@ -4527,11 +4925,40 @@
 				<group chance="70">
 					<item id="57" min="4359" max="8894" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0212">
-					<item id="5294" min="1" max="1" chance="29.2453" /> <!-- Sealed Tallum Helmet -->
-					<item id="5292" min="1" max="1" chance="41.5094" /> <!-- Sealed Dark Crystal Shield -->
-					<item id="5289" min="1" max="1" chance="29.2453" /> <!-- Sealed Dark Crystal Helmet -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
+
 				<group chance="36.7944">
 					<item id="5526" min="1" max="1" chance="2.23974" /> <!-- Sealed Tallum Helm Design -->
 					<item id="5525" min="1" max="1" chance="2.23974" /> <!-- Sealed Dark Crystal Helmet Design -->
@@ -4685,11 +5112,38 @@
 				<group chance="70">
 					<item id="57" min="2484" max="5072" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.016">
-					<item id="5296" min="1" max="1" chance="25" /> <!-- Sealed Tallum Boots -->
-					<item id="5295" min="1" max="1" chance="25" /> <!-- Sealed Tallum Gloves -->
-					<item id="5291" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Boots -->
-					<item id="5290" min="1" max="1" chance="25" /> <!-- Sealed Dark Crystal Gloves -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="45.0429">
 					<item id="5509" min="1" max="1" chance="1.18665" /> <!-- Sealed Tallum Gloves Design -->
@@ -5317,11 +5771,107 @@
 				<group chance="70">
 					<item id="57" min="2478" max="5056" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0058">
-					<item id="5301" min="1" max="1" chance="20.6897" /> <!-- Sealed Tallum Leather Armor -->
-					<item id="5298" min="1" max="1" chance="48.2759" /> <!-- Sealed Dark Crystal Leggings -->
-					<item id="5297" min="1" max="1" chance="31.0345" /> <!-- Sealed Dark Crystal Leather Armor -->
-				</group>
+				<group chance="5"> <!-- Weapons Grade A Agument -->
+					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
+					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
+					<item id="5598" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Acumen -->
+					<item id="5599" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Focus -->
+					<item id="5600" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Critical Bleed -->
+					<item id="5601" min="1" max="1" chance="1.0204"  /> <!-- Meteor Shower - Rsk. Haste -->
+					<item id="5602" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Health -->
+					<item id="5603" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Anger -->
+					<item id="5604" min="1" max="1" chance="1.0204"  /> <!-- Elysian - Critical Drain -->
+					<item id="5605" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Conversion -->
+					<item id="5606" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Magic Damage -->
+					<item id="5607" min="1" max="1" chance="1.0204"  /> <!-- Branch of The Mother Tree - Acumen -->
+					<item id="5608" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Light -->
+					<item id="5609" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Critical Bleed -->
+					<item id="5610" min="1" max="1" chance="1.0204"  /> <!-- Carnage Bow - Mana Up -->
+					<item id="5611" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Cheap Shot -->
+					<item id="5612" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Quick Recovery -->
+					<item id="5613" min="1" max="1" chance="1.0204"  /> <!-- Soul Bow - Critical Poison -->
+					<item id="5614" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Focus -->
+					<item id="5615" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Back Blow -->
+					<item id="5616" min="1" max="1" chance="1.0204"  /> <!-- Bloody Orchid - Critical Bleed -->
+					<item id="5617" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Guidance -->
+					<item id="5618" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Critical Damage -->
+					<item id="5619" min="1" max="1" chance="1.0204"  /> <!-- Soul Separator - Rsk. Haste -->
+					<item id="5620" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Haste -->
+					<item id="5621" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Focus -->
+					<item id="5622" min="1" max="1" chance="1.0204"  /> <!-- Blood Tornado - Anger -->
+					<item id="5623" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Rsk. Evasion -->
+					<item id="5624" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Guidance -->
+					<item id="5625" min="1" max="1" chance="1.0204"  /> <!-- Dragon Grinder - Health -->
+					<item id="5626" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Haste -->
+					<item id="5627" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Critical Stun -->
+					<item id="5628" min="1" max="1" chance="1.0204"  /> <!-- Halberd - Wide Blow -->
+					<item id="5632" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Guidance -->
+					<item id="5633" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Health -->
+					<item id="5634" min="1" max="1" chance="1.0204"  /> <!-- Tallum Glaive - Wide Blow -->
+					<item id="5635" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Critical Poison -->
+					<item id="5636" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Haste -->
+					<item id="5637" min="1" max="1" chance="1.0204"  /> <!-- Tallum Blade - Anger -->
+					<item id="5638" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Power -->
+					<item id="5639" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Magic Paralyze -->
+					<item id="5640" min="1" max="1" chance="1.0204"  /> <!-- Elemental Sword - Empower -->
+					<item id="5641" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Power -->
+					<item id="5642" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Magic Silence -->
+					<item id="5643" min="1" max="1" chance="1.0204"  /> <!-- Sword of Miracles - Acumen -->
+					<item id="5644" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Health -->
+					<item id="5645" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Bleed -->
+					<item id="5646" min="1" max="1" chance="1.0204"  /> <!-- Dragon Slayer - Critical Drain -->
+					<item id="5647" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Critical Damage -->
+					<item id="5648" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Health -->
+					<item id="5649" min="1" max="1" chance="1.0204"  /> <!-- Dark Legion's Edge - Rsk. Focus -->
+					<item id="8788" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Haste -->
+					<item id="8789" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Health -->
+					<item id="8790" min="1" max="1" chance="1.0204"  /> <!-- Sirra's Blade - Critical Poison -->
+					<item id="8791" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Focus -->
+					<item id="8792" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Haste -->
+					<item id="8793" min="1" max="1" chance="1.0204"  /> <!-- Sword of Ipos - Health -->
+					<item id="8794" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Health -->
+					<item id="8795" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Haste -->
+					<item id="8796" min="1" max="1" chance="1.0204"  /> <!-- Barakiel's Axe - Focus -->
+					<item id="8797" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Focus -->
+					<item id="8798" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Health -->
+					<item id="8799" min="1" max="1" chance="1.0204"  /> <!-- Behemoth's Tuning Fork - Anger -->
+					<item id="8800" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Focus -->
+					<item id="8801" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Critical Damage -->
+					<item id="8802" min="1" max="1" chance="1.0204"  /> <!-- Naga Storm - Back Blow -->
+					<item id="8803" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Critical Stun -->
+					<item id="8804" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Towering Blow -->
+					<item id="8805" min="1" max="1" chance="1.0204"  /> <!-- Tiphon's Spear - Wild Blow -->
+					<item id="8806" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Cheap Shot -->
+					<item id="8807" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Focus -->
+					<item id="8808" min="1" max="1" chance="1.0204"  /> <!-- Shyeed's Bow - Quick Recovery -->
+					<item id="8809" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Rsk. Haste -->
+					<item id="8810" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Haste -->
+					<item id="8811" min="1" max="1" chance="1.0204"  /> <!-- Sobekk's Hurricane - Critical Drain -->
+					<item id="8812" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Mana Up -->
+					<item id="8813" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Mental Shield -->
+					<item id="8814" min="1" max="1" chance="1.0204"  /> <!-- Themis' Tongue - Magic Focus -->
+					<item id="8815" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Conversion -->
+					<item id="8816" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Mana Up -->
+					<item id="8817" min="1" max="1" chance="1.0204"  /> <!-- Cabrio's Hand - Magic Silence -->
+					<item id="8818" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Mana Up -->
+					<item id="8819" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Acumen -->
+					<item id="8820" min="1" max="1" chance="1.0204"  /> <!-- Daimon Crystal - Magic Mental Shield -->
+					<item id="8126" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Health -->
+					<item id="8127" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Haste -->
+					<item id="8128" min="1" max="1" chance="1.0204"  /> <!-- Destroyer Hammer - Critical Drain -->
+					<item id="8135" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Health -->
+					<item id="8136" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Anger -->
+					<item id="8137" min="1" max="1" chance="1.0204"  /> <!-- Doom Crusher - Rsk. Haste -->
+					<item id="8147" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Mana Up -->
+					<item id="8148" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Magic Poison -->
+					<item id="8149" min="1" max="1" chance="1.0204"  /> <!-- Spiritual Eye - Acumen -->
+					<item id="8150" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Acumen -->
+					<item id="8151" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Power -->
+					<item id="8152" min="1" max="1" chance="1.0204"  /> <!-- Flaming Dragon Skull - Magic Silence -->
+					<item id="5704" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Keshanberk -->
+					<item id="5705" min="1" max="1" chance="1.0204"  /> <!-- Keshanberk*Damascus -->
+					<item id="5706" min="1" max="1" chance="1.0204"  /> <!-- Damascus*Damascus -->
+				</group>								
 				<group chance="58.8761">
 					<item id="5482" min="1" max="1" chance="0.67939" /> <!-- Sealed Dark Crystal Leggings Design -->
 					<item id="5479" min="1" max="1" chance="0.30471" /> <!-- Sealed Tallum Leather Armor Pattern -->
@@ -5398,10 +5948,38 @@
 				<group chance="70">
 					<item id="57" min="2377" max="4846" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0056">
-					<item id="5308" min="1" max="1" chance="21.4286" /> <!-- Sealed Dark Crystal Robe -->
-					<item id="5305" min="1" max="1" chance="48.2143" /> <!-- Sealed Tallum Stockings -->
-					<item id="5304" min="1" max="1" chance="30.3571" /> <!-- Sealed Tallum Tunic -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="51.7459">
 					<item id="5486" min="1" max="1" chance="0.33239" /> <!-- Sealed Dark Crystal Robe Fabric -->
@@ -5478,10 +6056,38 @@
 				<group chance="70">
 					<item id="57" min="2484" max="5062" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0152">
-					<item id="6325" min="1" max="1" chance="46.0526" /> <!-- Sealed Phoenix Ring -->
-					<item id="6324" min="1" max="1" chance="30.9211" /> <!-- Sealed Phoenix Earring -->
-					<item id="6323" min="1" max="1" chance="23.0263" /> <!-- Sealed Phoenix Necklace -->
+				<group chance="5"> <!-- Weapons Grade A Normais -->
+					<item id="81" min="1" max="1" chance="3.2258"  /> <!-- Dragon Slayer -->
+					<item id="151" min="1" max="1" chance="3.2258"  /> <!-- Sword of Miracles -->
+					<item id="150" min="1" max="1" chance="3.2258"  /> <!-- Elemental Sword -->
+					<item id="80" min="1" max="1" chance="3.2258"  /> <!-- Tallum Blade -->
+					<item id="305" min="1" max="1" chance="3.2258"  /> <!-- Tallum Glaive -->
+					<item id="98" min="1" max="1" chance="3.2258"  /> <!-- Halberd -->
+					<item id="270" min="1" max="1" chance="3.2258"  /> <!-- Dragon Grinder -->
+					<item id="269" min="1" max="1" chance="3.2258"  /> <!-- Blood Tornado -->
+					<item id="236" min="1" max="1" chance="3.2258"  /> <!-- Soul Separator -->
+					<item id="235" min="1" max="1" chance="3.2258"  /> <!-- Bloody Orchid -->
+					<item id="289" min="1" max="1" chance="3.2258"  /> <!-- Soul Bow -->
+					<item id="288" min="1" max="1" chance="3.2258"  /> <!-- Carnage Bow -->
+					<item id="213" min="1" max="1" chance="3.2258"  /> <!-- Branch of The Mother Tree -->
+					<item id="164" min="1" max="1" chance="3.2258"  /> <!-- Elysian -->
+					<item id="2504" min="1" max="1" chance="3.2258"  /> <!-- Meteor Shower -->
+					<item id="209" min="1" max="1" chance="3.2258"  /> <!-- Divine Staff -->
+					<item id="8678" min="1" max="1" chance="3.2258"  /> <!-- Sirra's Blade -->
+					<item id="8679" min="1" max="1" chance="3.2258"  /> <!-- Sword of Ipos -->
+					<item id="8680" min="1" max="1" chance="3.2258"  /> <!-- Barakiel's Axe -->
+					<item id="8681" min="1" max="1" chance="3.2258"  /> <!-- Behemoth's Tuning Fork -->
+					<item id="8682" min="1" max="1" chance="3.2258"  /> <!-- Naga Storm -->
+					<item id="8683" min="1" max="1" chance="3.2258"  /> <!-- Tiphon's Spear -->
+					<item id="8684" min="1" max="1" chance="3.2258"  /> <!-- Shyeed's Bow -->
+					<item id="8685" min="1" max="1" chance="3.2258"  /> <!-- Sobekk's Hurricane -->
+					<item id="8686" min="1" max="1" chance="3.2258"  /> <!-- Themis' Tongue -->
+					<item id="8687" min="1" max="1" chance="3.2258"  /> <!-- Cabrio's Hand -->
+					<item id="8688" min="1" max="1" chance="3.2258"  /> <!-- Daimon Crystal -->
+					<item id="7902" min="1" max="1" chance="3.2258"  /> <!-- Doom Crusher -->
+					<item id="7899" min="1" max="1" chance="3.2258"  /> <!-- Destroyer Hammer -->
+					<item id="7894" min="1" max="1" chance="3.2258"  /> <!-- Spiritual Eye -->
+					<item id="7895" min="1" max="1" chance="3.2258"  /> <!-- Flaming Dragon Skull -->
 				</group>
 				<group chance="48.2127">
 					<item id="6345" min="1" max="1" chance="2.40912" /> <!-- Sealed Phoenix Ring Gemstone -->
