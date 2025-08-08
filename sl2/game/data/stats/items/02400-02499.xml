@@ -214,7 +214,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="2410" type="Armor" name="Nightmarish Tattoo">
+	<item id="2410" type="Armor" name="Nightmare Tattoo">
 		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />

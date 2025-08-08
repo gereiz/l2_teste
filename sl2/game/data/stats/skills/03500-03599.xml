@@ -508,7 +508,7 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="3538" levels="1" name="Nightmarish Leather Light Armor Set">
+	<skill id="3538" levels="1" name="Nightmare Leather Light Armor Set">
 		<!-- Increases resistance to Sleep/Hold attack and M. Def. Restores HP by using part of the damage inflicted upon the enemy, excluding damage caused by skill or remote attack. DEX+1, CON-1 -->
 		<set name="icon" val="icon.armor_t81_ul_i00" />
 		<set name="magicLevel" val="1" />

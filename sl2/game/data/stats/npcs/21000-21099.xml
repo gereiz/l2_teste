@@ -3651,10 +3651,21 @@
 				<group chance="70">
 					<item id="57" min="3350" max="6803" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.006">
-					<item id="5293" min="1" max="1" chance="21.6667" /> <!-- Sealed Tallum Plate Armor -->
-					<item id="5288" min="1" max="1" chance="48.3333" /> <!-- Sealed Dark Crystal Gaiters -->
-					<item id="5287" min="1" max="1" chance="30" /> <!-- Sealed Dark Crystal breastplate -->
+				<group chance="5"> <!-- Tallum Fighter / Mage-->
+					<item id="547" min="1" max="1" chance="8.3333"  /> <!-- Tallum Helm -->
+					<item id="2382" min="1" max="1" chance="6.2500"  /> <!-- Tallum Plate Armor -->
+					<item id="5768" min="1" max="1" chance="8.3333"  /> <!-- Tallum Gloves - Heavy Armor -->
+					<item id="5780" min="1" max="1" chance="8.3333"  /> <!-- Tallum Boots - Heavy Armor -->
+					<item id="5777" min="1" max="1" chance="8.3333"  /> <!-- Dark Crystal Boots - Heavy Armor -->
+
+					<item id="2393" min="1" max="1" chance="6.2500"  /> <!-- Tallum Leather Armor -->
+					<item id="5769" min="1" max="1" chance="8.3333"  /> <!-- Tallum Gloves - Light Armor -->
+					<item id="5781" min="1" max="1" chance="8.3333"  /> <!-- Tallum Boots - Light Armor -->
+
+					<item id="2400" min="1" max="1" chance="6.2500"  /> <!-- Tallum Tunic -->
+					<item id="2405" min="1" max="1" chance="6.2500"  /> <!-- Tallum Stockings -->
+					<item id="5770" min="1" max="1" chance="8.3333"  /> <!-- Tallum Gloves - Robe -->
+					<item id="5782" min="1" max="1" chance="8.3333"  /> <!-- Tallum Boots - Robe -->
 				</group>
 				<group chance="48.6627">
 					<item id="5524" min="1" max="1" chance="0.82774" /> <!-- Sealed Dark Crystal Gaiters Pattern -->
