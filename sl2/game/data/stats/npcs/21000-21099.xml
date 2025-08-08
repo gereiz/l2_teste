@@ -5036,10 +5036,19 @@
 				<group chance="70">
 					<item id="57" min="2226" max="4530" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0109">
-					<item id="5294" min="1" max="1" chance="29.3578" /> <!-- Sealed Tallum Helmet -->
-					<item id="5292" min="1" max="1" chance="41.2844" /> <!-- Sealed Dark Crystal Shield -->
-					<item id="5289" min="1" max="1" chance="29.3578" /> <!-- Sealed Dark Crystal Helmet -->
+				<group chance="5"> <!-- Majestic Fighter / Mage-->
+					<item id="2419" min="1" max="1" chance="8.3333"  /> <!-- Majestic Circlet -->
+					<item id="2383" min="1" max="1" chance="6.2500"  /> <!-- Majestic Plate Armor -->
+					<item id="5774" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Heavy Armor -->
+					<item id="5786" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Heavy Armor -->
+
+					<item id="2395" min="1" max="1" chance="6.2500"  /> <!-- Majestic Leather Armor -->
+					<item id="5775" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Light Armor -->
+					<item id="5787" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Light Armor -->
+
+					<item id="2409" min="1" max="1" chance="8.3333"  /> <!-- Majestic Robe -->
+					<item id="5776" min="1" max="1" chance="6.2500"  /> <!-- Majestic Gauntlets - Robe -->
+					<item id="5788" min="1" max="1" chance="6.2500"  /> <!-- Majestic Boots - Robe -->
 				</group>
 				<group chance="40.1524">
 					<item id="5526" min="1" max="1" chance="1.04626" /> <!-- Sealed Tallum Helm Design -->
@@ -5121,10 +5130,19 @@
 				<group chance="70">
 					<item id="57" min="2121" max="4306" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.005">
-					<item id="5308" min="1" max="1" chance="22" /> <!-- Sealed Dark Crystal Robe -->
-					<item id="5305" min="1" max="1" chance="48" /> <!-- Sealed Tallum Stockings -->
-					<item id="5304" min="1" max="1" chance="30" /> <!-- Sealed Tallum Tunic -->
+				<group chance="5"> <!-- Majestic Fighter / Mage-->
+					<item id="2419" min="1" max="1" chance="8.3333"  /> <!-- Majestic Circlet -->
+					<item id="2383" min="1" max="1" chance="6.2500"  /> <!-- Majestic Plate Armor -->
+					<item id="5774" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Heavy Armor -->
+					<item id="5786" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Heavy Armor -->
+
+					<item id="2395" min="1" max="1" chance="6.2500"  /> <!-- Majestic Leather Armor -->
+					<item id="5775" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Light Armor -->
+					<item id="5787" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Light Armor -->
+
+					<item id="2409" min="1" max="1" chance="8.3333"  /> <!-- Majestic Robe -->
+					<item id="5776" min="1" max="1" chance="6.2500"  /> <!-- Majestic Gauntlets - Robe -->
+					<item id="5788" min="1" max="1" chance="6.2500"  /> <!-- Majestic Boots - Robe -->
 				</group>
 				<group chance="30.0961">
 					<item id="5489" min="1" max="1" chance="1.13403" /> <!-- Sealed Tallum Stockings Fabric -->
@@ -5206,10 +5224,19 @@
 				<group chance="70">
 					<item id="57" min="1960" max="3980" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.012">
-					<item id="6325" min="1" max="1" chance="45.8333" /> <!-- Sealed Phoenix Ring -->
-					<item id="6324" min="1" max="1" chance="30.8333" /> <!-- Sealed Phoenix Earring -->
-					<item id="6323" min="1" max="1" chance="23.3333" /> <!-- Sealed Phoenix Necklace -->
+				<group chance="5"> <!-- Majestic Fighter / Mage-->
+					<item id="2419" min="1" max="1" chance="8.3333"  /> <!-- Majestic Circlet -->
+					<item id="2383" min="1" max="1" chance="6.2500"  /> <!-- Majestic Plate Armor -->
+					<item id="5774" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Heavy Armor -->
+					<item id="5786" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Heavy Armor -->
+
+					<item id="2395" min="1" max="1" chance="6.2500"  /> <!-- Majestic Leather Armor -->
+					<item id="5775" min="1" max="1" chance="8.3333"  /> <!-- Majestic Gauntlets - Light Armor -->
+					<item id="5787" min="1" max="1" chance="8.3333"  /> <!-- Majestic Boots - Light Armor -->
+
+					<item id="2409" min="1" max="1" chance="8.3333"  /> <!-- Majestic Robe -->
+					<item id="5776" min="1" max="1" chance="6.2500"  /> <!-- Majestic Gauntlets - Robe -->
+					<item id="5788" min="1" max="1" chance="6.2500"  /> <!-- Majestic Boots - Robe -->
 				</group>
 				<group chance="50.4108">
 					<item id="6345" min="1" max="1" chance="1.8137" /> <!-- Sealed Phoenix Ring Gemstone -->
