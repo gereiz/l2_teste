@@ -1701,7 +1701,8 @@
 				<group chance="70">
 					<item id="57" min="3442" max="6979" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0297">
+				<!-- <group chance="0.0297"> -->
+				<group chance="70">
 					<item id="926" min="1" max="1" chance="23.2323" /> <!-- Necklace of Black Ore -->
 					<item id="895" min="1" max="1" chance="46.1279" /> <!-- Ring of Black Ore -->
 					<item id="864" min="1" max="1" chance="30.6397" /> <!-- Earring of Black Ore -->
