@@ -1464,7 +1464,11 @@
 				<group chance="70">
 					<item id="57" min="2015" max="4076" chance="100" /> <!-- Adena -->
 				</group>
-				 
+				<group chance="5">
+					<item id="893" min="1" max="1" chance="40.0000" /> <!-- Majestic Ring -->
+					<item id="862" min="1" max="1" chance="40.0000" /> <!-- Majestic Earring -->
+					<item id="924" min="1" max="1" chance="20.0000" /> <!-- Majestic Necklace -->
+				</group>
 				<group chance="38.1933">
 					<item id="4120" min="1" max="1" chance="0.84099" /> <!-- Bellion Cestus Edge -->
 					<item id="4402" min="1" max="1" chance="0.0631" /> <!-- Blue Dimensional Stone -->
