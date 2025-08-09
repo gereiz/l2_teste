@@ -1476,7 +1476,7 @@
 	<skill id="1355" levels="1" name="Prophecy of Water">
 		<!-- The spirit of an ancient wizard temporarily possesses the user. Consumes 5 spirit ores. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="300" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MULTI_BUFF" />
 		<set name="castRange" val="400" />
 		<set name="effectPoint" val="669" />
@@ -1507,7 +1507,7 @@
 	<skill id="1356" levels="1" name="Prophecy of Fire">
 		<!-- The spirit of an ancient warrior temporarily possesses the user. Consumes 5 spirit ores. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="300" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MULTI_BUFF" />
 		<set name="castRange" val="400" />
 		<set name="effectPoint" val="669" />
@@ -1539,7 +1539,7 @@
 	<skill id="1357" levels="1" name="Prophecy of Wind">
 		<!-- The spirit of an ancient assassin temporarily possesses the user. Consumes 5 spirit ores. -->
 		<set name="abnormalLevel" val="1" />
-		<set name="abnormalTime" val="300" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MULTI_BUFF" />
 		<set name="castRange" val="400" />
 		<set name="effectPoint" val="669" />
