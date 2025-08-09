@@ -19,24 +19,7 @@
 	<item id="3950" price="490" /> <!-- Blessed Spiritshot: B-Grade -->
 	<item id="3951" price="580" /> <!-- Blessed Spiritshot: A-Grade -->
 	<item id="3952" price="700" /> <!-- Blessed Spiritshot: S Grade -->
-	<item id="5134" price="4600" /> <!-- Compressed Package of Soulshots: No Grade -->
-	<item id="5135" price="6600" /> <!-- Compressed Package of Soulshots: D-grade -->
-	<item id="5136" price="9900" /> <!-- Compressed Package of Soulshots: C-grade -->
-	<item id="5137" price="33000" /> <!-- Compressed Package of Soulshots: B-grade -->
-	<item id="5138" price="52800" /> <!-- Compressed Package of Soulshots: A-grade -->
-	<item id="5139" price="66000" /> <!-- Compressed Package of Soulshots: S-grade -->
-	<item id="5140" price="9900" /> <!-- Compressed Package of Spiritshots: No Grade -->
-	<item id="5141" price="11880" /> <!-- Compressed Package of Spiritshots: D-grade -->
-	<item id="5142" price="23100" /> <!-- Compressed Package of Spiritshots: C-grade -->
-	<item id="5143" price="66000" /> <!-- Compressed Package of Spiritshots: B-grade -->
-	<item id="5144" price="79200" /> <!-- Compressed Package of Spiritshots: A-grade -->
-	<item id="5145" price="99000" /> <!-- Compressed Package of Spiritshots: S-grade -->
-	<item id="5146" price="23100" /> <!-- Compressed Package of Blessed Spiritshots: No Grade -->
-	<item id="5147" price="29700" /> <!-- Compressed Package of Blessed Spiritshots: D-grade -->
-	<item id="5148" price="59400" /> <!-- Compressed Package of Blessed Spiritshots: C-grade -->
-	<item id="5149" price="161700" /> <!-- Compressed Package of Blessed Spiritshots: B-grade -->
-	<item id="5150" price="191400" /> <!-- Compressed Package of Blessed Spiritshots: A-grade -->
-	<item id="5151" price="231000" /> <!-- Compressed Package of Blessed Spiritshots: S-grade -->
+	
 	<item id="5250" price="15400" /> <!-- Greater Compressed Package of Soulshots: No-grade -->
 	<item id="5251" price="22000" /> <!-- Greater Compressed Package of Soulshots: D-grade -->
 	<item id="5252" price="33000" /> <!-- Greater Compressed Package of Soulshots: C-grade -->
@@ -65,11 +48,7 @@
 	<item id="2132" price="20000" /> <!-- Gemstone B -->
 	<item id="2133" price="60000" /> <!-- Gemstone A -->
 	<item id="2134" price="200000" /> <!-- Gemstone S -->
-	<item id="5192" price="200" /> <!-- Rope of Magic: D-Grade -->
-	<item id="5193" price="300" /> <!-- Rope of Magic: C-Grade -->
-	<item id="5194" price="500" /> <!-- Rope of Magic: B-Grade -->
-	<item id="5195" price="800" /> <!-- Rope of Magic: A-Grade -->
-	<item id="5196" price="3000" /> <!-- Rope of Magic: S Grade -->
+
 	<item id="1341" price="6" /> <!-- Bone Arrow -->
 	<item id="1342" price="10" /> <!-- Fine Steel Arrow -->
 	<item id="1343" price="14" /> <!-- Silver Arrow -->
@@ -79,63 +58,14 @@
 	<item id="735" price="4800" /> <!-- Potion of Alacrity -->
 	<item id="1060" price="180" /> <!-- Lesser Healing Potion -->
 	<item id="1061" price="660" /> <!-- Healing Potion -->
-	<item id="728" price="5000" /> <!-- Mana Potion -->
 	<item id="1374" price="6000" /> <!-- Greater Haste Potion -->
 	<item id="1375" price="12000" /> <!-- Greater Swift Attack Potion -->
 	<item id="1539" price="1800" /> <!-- Greater Healing Potion -->
 	<item id="6035" price="4800" /> <!-- Magic Haste Potion -->
 	<item id="6036" price="12000" /> <!-- Greater Magic Haste Potion -->
-	<item id="5126" price="20000" /> <!-- Dualsword Craft Stamp -->
-	<item id="5589" price="200" /> <!-- Energy Stone -->
-	<item id="1864" price="200" /> <!-- Stem -->
-	<item id="1865" price="400" /> <!-- Varnish -->
-	<item id="1866" price="600" /> <!-- Suede -->
-	<item id="1867" price="300" /> <!-- Animal Skin -->
-	<item id="1868" price="200" /> <!-- Thread -->
-	<item id="1869" price="400" /> <!-- Iron Ore -->
-	<item id="1870" price="400" /> <!-- Coal -->
-	<item id="1871" price="400" /> <!-- Charcoal -->
-	<item id="1872" price="300" /> <!-- Animal Bone -->
-	<item id="1873" price="1000" /> <!-- Silver Nugget -->
-	<item id="1874" price="6000" /> <!-- Oriharukon Ore -->
-	<item id="1875" price="6000" /> <!-- Stone of Purity -->
-	<item id="1876" price="2000" /> <!-- Mithril Ore -->
-	<item id="1877" price="10000" /> <!-- Adamantite Nugget -->
-	<item id="4039" price="12000" /> <!-- Mold Glue -->
-	<item id="4040" price="20000" /> <!-- Mold Lubricant -->
-	<item id="4041" price="46000" /> <!-- Mold Hardener -->
-	<item id="4042" price="24000" /> <!-- Enria -->
-	<item id="4043" price="12000" /> <!-- Asofe -->
-	<item id="4044" price="12000" /> <!-- Thons -->
-	<item id="1878" price="1000" /> <!-- Braided Hemp -->
-	<item id="1879" price="2400" /> <!-- Cokes -->
-	<item id="1880" price="4000" /> <!-- Steel -->
-	<item id="1881" price="3000" /> <!-- Coarse Bone Powder -->
-	<item id="1882" price="1800" /> <!-- Leather -->
-	<item id="5220" price="10000" /> <!-- Metal Hardener -->
-	<item id="5549" price="4000" /> <!-- Metallic Thread -->
-	<item id="1883" price="9000" /> <!-- Steel Mold -->
-	<item id="1884" price="650" /> <!-- Cord -->
-	<item id="1885" price="4800" /> <!-- High Grade Suede -->
-	<item id="1886" price="27000" /> <!-- Silver Mold -->
-	<item id="1887" price="16200" /> <!-- Varnish of Purity -->
-	<item id="1888" price="13200" /> <!-- Synthetic Cokes -->
-	<item id="1889" price="6000" /> <!-- Compound Braid -->
-	<item id="5550" price="30000" /> <!-- Durable Metal Plate -->
-	<item id="1890" price="26200" /> <!-- Mithril Alloy -->
-	<item id="1891" price="190000" /> <!-- Artisan's Frame -->
-	<item id="1892" price="128000" /> <!-- Blacksmith's Frame -->
-	<item id="1893" price="49200" /> <!-- Oriharukon -->
-	<item id="1894" price="11400" /> <!-- Crafted Leather -->
-	<item id="1895" price="1400" /> <!-- Metallic Fiber -->
-	<item id="4045" price="822000" /> <!-- Maestro Holder -->
-	<item id="4046" price="180800" /> <!-- Maestro Anvil Lock -->
-	<item id="5551" price="476000" /> <!-- Leolin's Mold -->
-	<item id="4047" price="1420000" /> <!-- Craftsman Mold -->
-	<item id="4048" price="308000" /> <!-- Maestro Mold -->
-	<item id="5552" price="770000" /> <!-- Warsmith's Mold -->
-	<item id="5553" price="1062400" /> <!-- Arcsmith's Anvil -->
-	<item id="5554" price="1768000" /> <!-- Warsmith's Holder -->
+	<item id="728" price="5000" /> <!-- Mana Potion -->
+	<item id="3031" price="550" /> <!-- Spirit Ore -->
+	<item id="2508" price="500" /> <!-- Cursed Bone -->
 	<item id="6535" price="6" /> <!-- Fishing Shot: non-grade -->
 	<item id="6536" price="10" /> <!-- Fishing Shot: D-grade -->
 	<item id="6537" price="14" /> <!-- Fishing Shot: C-grade -->
