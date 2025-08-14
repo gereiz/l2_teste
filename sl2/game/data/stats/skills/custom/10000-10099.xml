@@ -27,7 +27,7 @@
 		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="ManaHeal">
-				<param power="100" />
+				<param power="500" />
 			</effect>
 		</for>
 	</skill>

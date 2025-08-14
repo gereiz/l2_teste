@@ -1709,7 +1709,7 @@
 	<skill id="1363" levels="1" name="Chant of Victory">
 		<!-- The spirits of ancient heroes temporarily possess one's party members. Consumes 40 spirit ores. -->
 		<set name="abnormalLevel" val="2" />
-		<set name="abnormalTime" val="300" />
+		<set name="abnormalTime" val="3600" />
 		<set name="abnormalType" val="MULTI_BUFF" />
 		<set name="affectRange" val="1000" />
 		<set name="effectPoint" val="669" />
