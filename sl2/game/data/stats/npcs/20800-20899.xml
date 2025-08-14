@@ -369,7 +369,7 @@
 				<group chance="50"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="2"> <!-- Weapons Grade S-->
+				<group chance="1"> <!-- Weapons Grade S-->
 					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
 					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
 					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
@@ -432,7 +432,7 @@
 					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
 					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="3"> <!-- Jewels Grade S-->
+				<group chance="2"> <!-- Jewels Grade S-->
 					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
 					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
 					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
@@ -500,7 +500,7 @@
 				<group chance="50"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="2"> <!-- Weapons Grade S-->
+				<group chance="1"> <!-- Weapons Grade S-->
 					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
 					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
 					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
@@ -563,7 +563,7 @@
 					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
 					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="3"> <!-- Jewels Grade S-->
+				<group chance="2"> <!-- Jewels Grade S-->
 					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
 					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
 					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
@@ -632,7 +632,7 @@
 				<group chance="50"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="2"> <!-- Weapons Grade S-->
+				<group chance="1"> <!-- Weapons Grade S-->
 					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
 					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
 					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
@@ -695,7 +695,7 @@
 					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
 					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="3"> <!-- Jewels Grade S-->
+				<group chance="2"> <!-- Jewels Grade S-->
 					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
 					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
 					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
@@ -768,7 +768,7 @@
 				<group chance="50"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="2"> <!-- Weapons Grade S-->
+				<group chance="1"> <!-- Weapons Grade S-->
 					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
 					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
 					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
@@ -831,7 +831,7 @@
 					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
 					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="3"> <!-- Jewels Grade S-->
+				<group chance="2"> <!-- Jewels Grade S-->
 					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
 					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
 					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
@@ -903,7 +903,7 @@
 				<group chance="50"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="2"> <!-- Weapons Grade S-->
+				<group chance="1"> <!-- Weapons Grade S-->
 					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
 					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
 					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
@@ -966,7 +966,7 @@
 					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
 					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="3"> <!-- Jewels Grade S-->
+				<group chance="2"> <!-- Jewels Grade S-->
 					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
 					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
 					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
