@@ -396,7 +396,7 @@
 			<height normal="61" />
 		</collision>
 	</npc>
-	<npc id="20805" level="42" type="Monster" name="Dailaon Lad">
+	<npc id="20805" level="81" type="Monster" name="Dailaon Lad">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -414,7 +414,7 @@
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4450.81652" hpRegen="10.5" mp="2500" mpRegen="4.1" />
 			<attack physical="870.34591" magical="570.44454" random="30" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="330.88513" magical="330.782377202178" />
+			<defence physical="450.88513" magical="450.782377202178" />
 			<speed>
 				<walk ground="18" />
 				<run ground="174" />
@@ -546,7 +546,7 @@
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4594.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
 			<attack physical="900.04832" magical="559.43577" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="340.13417" magical="230.611442266143" />
+			<defence physical="440.13417" magical="430.611442266143" />
 			<speed>
 				<walk ground="18" />
 				<run ground="174" />
@@ -679,7 +679,7 @@
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4594.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
 			<attack physical="900.23112" magical="548.75505" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="330.43552" magical="240.475328468187" />
+			<defence physical="430.43552" magical="440.475328468187" />
 			<speed>
 				<walk ground="15" />
 				<run ground="174" />
@@ -814,7 +814,7 @@
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4599.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
 			<attack physical="905.89829" magical="570.40508" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="350.78746" magical="250.372898457316" />
+			<defence physical="450.78746" magical="450.372898457316" />
 			<speed>
 				<walk ground="18" />
 				<run ground="174" />
