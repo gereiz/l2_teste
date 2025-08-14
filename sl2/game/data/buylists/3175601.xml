@@ -38,6 +38,16 @@
 	<item id="5265" price="539000" /> <!-- Greater Compressed Package of Blessed Spiritshots: B-grade -->
 	<item id="5266" price="638000" /> <!-- Greater Compressed Package of Blessed Spiritshots: A-grade -->
 	<item id="5267" price="838000" /> <!-- Greater Compressed Package of Blessed Spiritshots: S-grade -->
+
+	<item id="485" price="5000000" /> <!-- Tattoo of Power 12% Atk -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Soul 33% AtkSpd -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Resolve 33% Spd -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Bravery 25% Critical Rate -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Flame 65% mAtk -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Avadon 23% mAtkSpd -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Doom 40% pDef -->
+	<item id="5267" price="5000000" /> <!-- Tattoo of Absolute 15% Hp -->
+
 	<item id="1458" price="1300" /> <!-- Crystal: D-Grade -->
 	<item id="1459" price="6000" /> <!-- Crystal: C-Grade -->
 	<item id="1460" price="18000" /> <!-- Crystal: B-Grade -->

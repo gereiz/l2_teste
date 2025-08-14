@@ -1683,6 +1683,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="73" />
+			<mul order="0" stat="rShld" val="1.15" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1700,6 +1701,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="73" />
+			<mul order="0" stat="runSpd" val="1.33" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1717,6 +1719,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="139" />
+			<mul order="0" stat="mAtk" val="1.65" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1734,6 +1737,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="110" />
+			<mul order="0" stat="critRate" val="1.25" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1768,6 +1772,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="146" />
+			<mul order="0" stat="maxHp" val="1.15" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1785,6 +1790,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="65" />
+			<mul order="0" stat="pAtkSpd" val="1.15" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1802,6 +1808,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="117" />
+			<mul order="0" stat="mAtkSpd" val="1.23" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
@@ -1819,6 +1826,7 @@
 		<set name="enchant_enabled" val="true" />
 		<for>
 			<add order="0" stat="pDef" val="125" />
+			<mul order="0" stat="pDef" val="1.40" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
