@@ -444,7 +444,7 @@
 				<group chance="70"> <!-- Adena -->
 					<item id="57" min="11650" max="21200" chance="100" /> 
 				</group>
-				<group chance="30"> <!--Ancient Adena -->
+				<group chance="40"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
 				<group chance="2"> <!-- Weapons Grade S-->
@@ -576,7 +576,7 @@
 				<group chance="70"> <!-- Adena -->
 					<item id="57" min="11650" max="21200" chance="100" /> 
 				</group>
-				<group chance="30"> <!--Ancient Adena -->
+				<group chance="40"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
 				<group chance="2"> <!-- Weapons Grade S-->
@@ -712,7 +712,7 @@
 				<group chance="70"> <!-- Adena -->
 					<item id="57" min="11650" max="21200" chance="100" /> 
 				</group>
-				<group chance="30"> <!--Ancient Adena -->
+				<group chance="40"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
 				<group chance="2"> <!-- Weapons Grade S-->
@@ -847,7 +847,7 @@
 				<group chance="70"> <!-- Adena -->
 					<item id="57" min="11650" max="21200" chance="100" /> 
 				</group>
-				<group chance="30"> <!--Ancient Adena -->
+				<group chance="40"> <!--Ancient Adena -->
 					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
 				<group chance="2"> <!-- Weapons Grade S-->
