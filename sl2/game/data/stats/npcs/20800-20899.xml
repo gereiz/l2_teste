@@ -527,7 +527,7 @@
 			<height normal="58" />
 		</collision>
 	</npc>
-	<npc id="20806" level="43" type="Monster" name="Crokian Lad Warrior">
+	<npc id="20806" level="83" type="Monster" name="Crokian Lad Warrior">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -544,9 +544,9 @@
 		<equipment rhand="5128" /> <!-- rhand: Crokian Blade -->
 		<acquire exp="59550" sp="5200" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="1094.28943" hpRegen="5.5" mp="557.4" mpRegen="2.1" />
-			<attack physical="210.04832" magical="143.43577" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="169.13417" magical="112.611442266143" />
+			<vitals hp="3594.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
+			<attack physical="900.04832" magical="559.43577" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="340.13417" magical="230.611442266143" />
 			<speed>
 				<walk ground="18" />
 				<run ground="174" />
@@ -659,7 +659,7 @@
 			<height normal="61" />
 		</collision>
 	</npc>
-	<npc id="20807" level="44" type="Monster" name="Farhite Lad">
+	<npc id="20807" level="83" type="Monster" name="Farhite Lad">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -677,9 +677,9 @@
 		<equipment rhand="5131" /> <!-- rhand: Parhit Staff -->
 		<acquire exp="59550" sp="5200" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="1138.62924" hpRegen="5.5" mp="584" mpRegen="2.1" />
-			<attack physical="222.23112" magical="151.75505" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="173.43552" magical="115.475328468187" />
+			<vitals hp="3594.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
+			<attack physical="900.23112" magical="548.75505" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="330.43552" magical="240.475328468187" />
 			<speed>
 				<walk ground="15" />
 				<run ground="174" />
@@ -795,7 +795,7 @@
 			<height normal="48" />
 		</collision>
 	</npc>
-	<npc id="20808" level="45" type="Monster" name="Nos Lad">
+	<npc id="20808" level="83" type="Monster" name="Nos Lad">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="81" />
@@ -812,9 +812,9 @@
 		<equipment rhand="128" /> <!-- rhand: Knight's Sword -->
 		<acquire exp="6974" sp="484" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="1183.80594" hpRegen="5.5" mp="610.8" mpRegen="2.1" />
-			<attack physical="234.89829" magical="160.40508" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="177.78746" magical="118.372898457316" />
+			<vitals hp="3599.28943" hpRegen="10.5" mp="2500" mpRegen="4.1" />
+			<attack physical="905.89829" magical="570.40508" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="350.78746" magical="250.372898457316" />
 			<speed>
 				<walk ground="18" />
 				<run ground="174" />
