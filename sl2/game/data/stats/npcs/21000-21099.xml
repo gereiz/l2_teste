@@ -3805,6 +3805,9 @@
 				<group chance="70">
 					<item id="57" min="7216" max="14682" chance="100" /> <!-- Adena -->
 				</group>
+				<group chance="10">
+					<item id="5575" min="600" max="1400" chance="100" /> <!--Ancient Adena -->
+				</group>
 				<group chance="5"> <!-- Weapons Grade A Agument -->
 					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
 					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
@@ -4388,6 +4391,9 @@
 				<group chance="70">
 					<item id="57" min="9880" max="20139" chance="100" /> <!-- Adena -->
 				</group>
+				<group chance="10">
+					<item id="5575" min="600" max="1400" chance="100" /> <!--Ancient Adena -->
+				</group>
 				<group chance="5"> <!-- Weapons Grade A Agument -->
 					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
 					<item id="5597" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Conversion -->
@@ -4743,6 +4749,9 @@
 			<drop>
 				<group chance="70">
 					<item id="57" min="10270" max="20955" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="10">
+					<item id="5575" min="600" max="1400" chance="100" /> <!--Ancient Adena -->
 				</group>
 				<group chance="5"> <!-- Weapons Grade A Agument -->
 					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->
@@ -5770,6 +5779,9 @@
 			<drop>
 				<group chance="70">
 					<item id="57" min="2478" max="5056" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="10">
+					<item id="5575" min="600" max="1400" chance="100" /> <!--Ancient Adena -->
 				</group>
 				<group chance="5"> <!-- Weapons Grade A Agument -->
 					<item id="5596" min="1" max="1" chance="1.0204"  /> <!-- Dasparion's Staff - Mana Up -->

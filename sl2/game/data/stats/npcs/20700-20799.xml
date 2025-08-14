@@ -4113,7 +4113,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="20791" level="38" type="Monster" name="Crokian Warrior">
+	<npc id="20791" level="80" type="Monster" name="Crokian Warrior">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -4128,7 +4128,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5128" /> <!-- rhand: Crokian Blade -->
-		<acquire exp="4422" sp="276" />
+		<acquire exp="59550" sp="5200" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4159,52 +4159,79 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="613" max="1223" chance="100" /> <!-- Adena -->
+				<group chance="70"> <!-- Adena -->
+					<item id="57" min="11650" max="21200" chance="100" /> 
 				</group>
-				<group chance="0.0352">
-					<item id="2378" min="1" max="1" chance="38.0682" /> <!-- Brigandine Gaiters -->
-					<item id="2377" min="1" max="1" chance="38.0682" /> <!-- Mithril Scale Gaiters -->
-					<item id="352" min="1" max="1" chance="23.8636" /> <!-- Brigandine Tunic -->
+				<group chance="30"> <!--Ancient Adena -->
+					<item id="5575" min="4250" max="7580" chance="100" /> 
 				</group>
-				<group chance="11.4455">
-					<item id="2919" min="1" max="1" chance="6.46979" /> <!-- Brigandine Gaiters Material -->
-					<item id="2918" min="1" max="1" chance="6.46979" /> <!-- Mithril Scale Gaiters Material -->
-					<item id="1941" min="1" max="1" chance="4.33708" /> <!-- Brigandine Temper -->
-					<item id="1882" min="1" max="1" chance="26.4759" /> <!-- Leather -->
-					<item id="1881" min="1" max="1" chance="14.092" /> <!-- Coarse Bone Powder -->
-					<item id="2198" min="1" max="1" chance="3.68616" /> <!-- Recipe: Sage's Rag -->
-					<item id="1880" min="1" max="1" chance="8.56581" /> <!-- Steel -->
-					<item id="1877" min="1" max="1" chance="3.68616" /> <!-- Adamantite Nugget -->
-					<item id="1876" min="1" max="1" chance="25.6974" /> <!-- Mithril Ore -->
-					<item id="3020" min="1" max="1" chance="0.51985" /> <!-- Recipe: Elven Long Sword -->
+				<group chance="3"> <!-- Weapons Grade S-->
+					<item id="6364" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade -->
+					<item id="6365" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer -->
+					<item id="6366" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff -->
+					<item id="6367" min="1" max="1" chance="2.2222" /> <!-- Angel Slayer -->
+					<item id="6368" min="1" max="1" chance="2.2222" /> <!-- Shining Bow -->
+					<item id="6369" min="1" max="1" chance="2.2222" /> <!-- Dragon Hunter Axe -->
+					<item id="6370" min="1" max="1" chance="2.2222" /> <!-- Saint Spear -->
+					<item id="6371" min="1" max="1" chance="2.2222" /> <!-- Demon Splinter -->
+					<item id="6372" min="1" max="1" chance="2.2222" /> <!-- Heaven's Divider -->
+					<item id="6579" min="1" max="1" chance="2.2222" /> <!-- Arcana Mace -->
+					<item id="6580" min="1" max="1" chance="2.2222" /> <!-- Tallum Blade*Dark Legion's Edge -->
+					<item id="7575" min="1" max="1" chance="2.2222" /> <!-- Draconic Bow -->
+					<item id="6581" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade - Haste -->
+					<item id="6582" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade - Health -->
+					<item id="6583" min="1" max="1" chance="2.2222" /> <!-- Forgotten Blade - Focus -->
+					<item id="6584" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer - HP Drain -->
+					<item id="6585" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer - Health -->
+					<item id="6586" min="1" max="1" chance="2.2222" /> <!-- Basalt Battlehammer - HP Regeneration -->
+					<item id="6587" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff - Empower -->
+					<item id="6588" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff - MP Regeneration -->
+					<item id="6589" min="1" max="1" chance="2.2222" /> <!-- Imperial Staff - Magic Hold -->
+					<item id="6590" min="1" max="1" chance="2.2222" /> <!-- Angel Slayer - Crt. Damage -->
+					<item id="6591" min="1" max="1" chance="2.2222" /> <!-- Angel Slayer - HP Drain -->
+					<item id="6592" min="1" max="1" chance="2.2222" /> <!-- Angel Slayer - Haste -->
+					<item id="6593" min="1" max="1" chance="2.2222" /> <!-- Shining Bow - Cheap Shot -->
+					<item id="6594" min="1" max="1" chance="2.2222" /> <!-- Shining Bow - Focus -->
+					<item id="6595" min="1" max="1" chance="2.2222" /> <!-- Shining Bow - Crt. Slow -->
+					<item id="6596" min="1" max="1" chance="2.2222" /> <!-- Dragon Hunter Axe - HP Regeneration -->
+					<item id="6597" min="1" max="1" chance="2.2222" /> <!-- Dragon Hunter Axe - Health -->
+					<item id="6598" min="1" max="1" chance="2.2222" /> <!-- Dragon Hunter Axe - HP Drain -->
+					<item id="6599" min="1" max="1" chance="2.2222" /> <!-- Saint Spear - Health -->
+					<item id="6600" min="1" max="1" chance="2.2222" /> <!-- Saint Spear - Guidance -->
+					<item id="6601" min="1" max="1" chance="2.2222" /> <!-- Saint Spear - Haste -->
+					<item id="6602" min="1" max="1" chance="2.2222" /> <!-- Demon Splinter - Focus -->
+					<item id="6603" min="1" max="1" chance="2.2222" /> <!-- Demon Splinter - Health -->
+					<item id="6604" min="1" max="1" chance="2.2222" /> <!-- Demon Splinter - Crt. Stun -->
+					<item id="6605" min="1" max="1" chance="2.2222" /> <!-- Heavens Divider - Haste -->
+					<item id="6606" min="1" max="1" chance="2.2222" /> <!-- Heavens Divider - Health -->
+					<item id="6607" min="1" max="1" chance="2.2222" /> <!-- Heavens Divider - Focus -->
+					<item id="6608" min="1" max="1" chance="2.2222" /> <!-- Arcana Mace - Acumen -->
+					<item id="6609" min="1" max="1" chance="2.2222" /> <!-- Arcana Mace - MP Regeneration -->
+					<item id="6610" min="1" max="1" chance="2.2222" /> <!-- Arcana Mace - Mana Up -->
+					<item id="7576" min="1" max="1" chance="2.2222" /> <!-- Draconic Bow - Cheap Shot -->
+					<item id="7577" min="1" max="1" chance="2.2222" /> <!-- Draconic Bow - Focus -->
+					<item id="7578" min="1" max="1" chance="2.2222" /> <!-- Draconic Bow - Critical Slow -->
+				</group>	
+				<group chance="3"> <!-- Armors Grade S-->
+					<item id="6373" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Breastplate -->
+					<item id="6374" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Gaiters -->
+					<item id="6378" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Helmet -->
+					<item id="6375" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Gauntlets -->
+					<item id="6376" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Boots -->
+					<item id="6377" min="1" max="1" chance="7.1428" /> <!-- Imperial Crusader Shield -->
+					<item id="6379" min="1" max="1" chance="7.1428" /> <!-- Draconic Leather Armor -->
+					<item id="6382" min="1" max="1" chance="7.1428" /> <!-- Draconic Leather Helmet -->
+					<item id="6380" min="1" max="1" chance="7.1428" /> <!-- Draconic Leather Gloves -->
+					<item id="6381" min="1" max="1" chance="7.1428" /> <!-- Draconic Leather Boots -->
+					<item id="6383" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Robe -->
+					<item id="6386" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Circlet -->
+					<item id="6384" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Gloves -->
+					<item id="6385" min="1" max="1" chance="7.1428" /> <!-- Major Arcana Boots -->
 				</group>
-				<group chance="42">
-					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
-					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
-					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
-				</group>
-				<group chance="11">
-					<item id="8603" min="1" max="1" chance="12" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="56" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="32" /> <!-- Superior Herb of Mana -->
-				</group>
-				<group chance="25">
-					<item id="8606" min="1" max="1" chance="34" /> <!-- Herb of Power -->
-					<item id="8608" min="1" max="1" chance="33" /> <!-- Herb of Atk. Spd. -->
-					<item id="8610" min="1" max="1" chance="33" /> <!-- Herb of Critical Attack. -->
-				</group>
-				<group chance="10">
-					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
-					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
-				</group>
-				<group chance="1">
-					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
-					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
-					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
-				</group>
-				<group chance="11">
-					<item id="8611" min="1" max="1" chance="100" /> <!-- Herb of Speed -->
+				<group chance="5"> <!-- Jewels Grade S-->
+					<item id="889" min="1" max="1" chance="40.0000" /> <!-- Tateossian Ring -->
+					<item id="858" min="1" max="1" chance="40.0000" /> <!-- Tateossian Earring -->
+					<item id="920" min="1" max="1" chance="20.0000" /> <!-- Tateossian Necklace -->
 				</group>
 			</drop>
 			<spoil>
