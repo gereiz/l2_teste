@@ -1665,7 +1665,7 @@
 		<set name="price" val="36900" />
 		<for>
 			<add order="0" stat="pDef" val="53" />
-			<add order="0x30" stat="pAtk" val="1.12" />
+			<mu order="0x30" stat="pAtk" val="1.12" />
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
